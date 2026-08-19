@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>실시간 트렌드 주제 대시보드</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    background: var(--page);
+    color: var(--text-primary);
+    transition: background .2s, color .2s;
+  }
+  .viz-root {
+    --surface-1:      #fcfcfb;
+    --page:           #f9f9f7;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --gridline:       #e1e0d9;
+    --baseline:       #c3c2b7;
+    --border:         rgba(11,11,11,0.10);
+    --delta-up:       #006300;
+    --delta-down:     #d03b3b;
+    --series-1:       #2a78d6;
+    --cat-econ:       #2a78d6;
+    --cat-politics:   #eb6834;
+    --cat-edu:        #1baf7a;
+    --cat-season:     #eda100;
+    --cat-society:    #e87ba4;
+    --cat-culture:    #008300;
+  }
+  :root[data-theme="dark"] .viz-root,
+  :root:where(:not([data-theme="light"])) .viz-root {
+    color-scheme: dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) .viz-root {
+      --surface-1:      #1a1a19;
+      --page:           #0d0d0d;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #898781;
+      --gridline:       #2c2c2a;
+      --baseline:       #383835;
+      --border:         rgba(255,255,255,0.10);
+      --delta-up:       #0ca30c;
+      --delta-down:     #e66767;
+      --series-1:       #3987e5;
+      --cat-econ:       #3987e5;
+      --cat-politics:   #d95926;
+      --cat-edu:        #199e70;
+      --cat-season:     #c98500;
+      --cat-society:    #d55181;
+      --cat-culture:    #008300;
+    }
+  }
+  :root[data-theme="dark"] .viz-root {
+    --surface-1:      #1a1a19;
+    --page:           #0d0d0d;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #898781;
+    --gridline:       #2c2c2a;
+    --baseline:       #383835;
+    --border:         rgba(255,255,255,0.10);
+    --delta-up:       #0ca30c;
+    --delta-down:     #e66767;
+    --series-1:       #3987e5;
+    --cat-econ:       #3987e5;
+    --cat-politics:   #d95926;
+    --cat-edu:        #199e70;
+    --cat-season:     #c98500;
+    --cat-society:    #d55181;
+    --cat-culture:    #008300;
+  }
+
+  .viz-root { max-width: 1080px; margin: 0 auto; padding: 28px 20px 60px; }
+
+  header.top { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; flex-wrap: wrap; margin-bottom: 20px; }
+  header.top h1 { font-size: 22px; margin: 0 0 4px; letter-spacing: -0.01em; }
+  header.top .sub { font-size: 13px; color: var(--text-secondary); margin: 0; }
+  header.top .meta { font-size: 12px; color: var(--text-muted); margin-top: 6px; }
+
+  .controls { display: flex; gap: 8px; }
+  .btn {
+    font-size: 12px; padding: 7px 12px; border-radius: 8px;
+    border: 1px solid var(--border); background: var(--surface-1); color: var(--text-secondary);
+    cursor: pointer;
+  }
+  .btn:hover { color: var(--text-primary); }
+  .btn.active { color: var(--text-primary); border-color: var(--text-muted); }
+
+  .hero {
+    background: var(--surface-1); border: 1px solid var(--border); border-radius: 14px;
+    padding: 18px 20px; margin-bottom: 20px; display: flex; align-items: center; gap: 18px; flex-wrap: wrap;
+  }
+  .hero .label { font-size: 12px; color: var(--text-muted); margin-bottom: 4px; }
+  .hero .value { font-size: 30px; font-weight: 700; letter-spacing: -0.02em; }
+  .hero .delta { font-size: 14px; color: var(--delta-up); font-weight: 600; margin-left: 8px; }
+  .hero .desc { font-size: 13px; color: var(--text-secondary); max-width: 520px; }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
+  .card {
+    background: var(--surface-1); border: 1px solid var(--border); border-radius: 14px;
+    padding: 16px 16px 14px;
+  }
+  .card .row1 { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+  .pill {
+    font-size: 11px; font-weight: 600; padding: 3px 9px; border-radius: 999px;
+    color: var(--text-primary); border: 1px solid var(--border);
+  }
+  .rank { font-size: 11px; color: var(--text-muted); font-variant-numeric: tabular-nums; }
+  .card h3 { margin: 2px 0 2px; font-size: 17px; letter-spacing: -0.01em; }
+  .trend-badge { font-size: 13px; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .trend-badge.up { color: var(--delta-up); }
+  .trend-badge.down { color: var(--delta-down); }
+  .spark-wrap { margin: 8px 0 6px; }
+  .card p.reason { font-size: 13px; color: var(--text-secondary); line-height: 1.5; margin: 6px 0 8px; }
+  .card .foot { font-size: 11px; color: var(--text-muted); display: flex; justify-content: space-between; }
+
+  .kw-toggle {
+    width: 100%; text-align: left; margin-top: 4px; padding: 8px 0 2px;
+    background: none; border: none; border-top: 1px solid var(--gridline);
+    color: var(--text-secondary); font-size: 12px; font-weight: 600; cursor: pointer;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .kw-toggle:hover { color: var(--text-primary); }
+  .kw-toggle .chev { transition: transform .15s; }
+  .kw-toggle.open .chev { transform: rotate(180deg); }
+  .kw-panel { margin-top: 8px; display: flex; flex-direction: column; gap: 10px; }
+  .kw-item { padding-top: 8px; border-top: 1px solid var(--gridline); }
+  .kw-item:first-child { border-top: none; padding-top: 0; }
+  .kw-item-head { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; margin-bottom: 3px; }
+  .kw-name { font-size: 12.5px; font-weight: 700; color: var(--text-primary); }
+  .kw-tags { font-size: 11px; color: var(--text-muted); white-space: nowrap; }
+  .kw-tags b.tier-상 { color: var(--text-primary); }
+  .kw-tags b.tier-중 { color: var(--text-secondary); }
+  .kw-tags b.tier-하 { color: var(--text-muted); font-weight: 600; }
+  .kw-tags b.trend-상승 { color: var(--delta-up); }
+  .kw-tags b.trend-하락 { color: var(--delta-down); }
+  .kw-tags b.trend-신규, .kw-tags b.trend-유지 { color: var(--text-muted); }
+  .kw-item-reason { font-size: 11.5px; color: var(--text-secondary); line-height: 1.5; margin: 0; }
+
+  table.data-table { width: 100%; border-collapse: collapse; font-size: 13px; background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+  table.data-table th, table.data-table td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--gridline); }
+  table.data-table th { color: var(--text-muted); font-weight: 600; font-size: 12px; }
+  table.data-table td.num { font-variant-numeric: tabular-nums; }
+  table.data-table th:nth-child(1), table.data-table td:nth-child(1),
+  table.data-table th:nth-child(2), table.data-table td:nth-child(2),
+  table.data-table th:nth-child(3), table.data-table td:nth-child(3),
+  table.data-table th:nth-child(4), table.data-table td:nth-child(4) { white-space: nowrap; }
+  table.data-table tr:last-child td { border-bottom: none; }
+
+  .hidden { display: none !important; }
+  .loading, .error-box { font-size: 13px; color: var(--text-muted); padding: 40px 0; text-align: center; }
+  .error-box { color: var(--delta-down); }
+
+  footer.notes { margin-top: 24px; font-size: 12px; color: var(--text-muted); line-height: 1.7; }
+  footer.notes a { color: var(--text-secondary); }
+</style>
+</head>
+<body>
+<div class="viz-root">
+
+  <header class="top">
+    <div>
+      <h1>실시간 트렌드 주제 대시보드</h1>
+      <p class="sub">네이버 데이터랩 검색량 지수로 검증한 급상승 키워드</p>
+      <p class="meta" id="updated-meta">불러오는 중...</p>
+    </div>
+    <div class="controls">
+      <button class="btn active" id="btn-cards" onclick="setView('cards')">카드로 보기</button>
+      <button class="btn" id="btn-table" onclick="setView('table')">표로 보기</button>
+      <button class="btn" id="btn-theme" onclick="toggleTheme()">다크모드</button>
+    </div>
+  </header>
+
+  <section class="hero" id="hero-section"></section>
+
+  <div id="loading" class="loading">데이터를 불러오는 중입니다...</div>
+  <div id="load-error" class="error-box hidden">data.json을 불러오지 못했습니다. GitHub Actions가 아직 한 번도 실행되지 않았거나, 워크플로가 실패했을 수 있습니다. 저장소의 Actions 탭을 확인해보세요.</div>
+
+  <div id="view-cards" class="grid hidden"></div>
+
+  <div id="view-table" class="hidden">
+    <table class="data-table">
+      <thead>
+        <tr><th>키워드</th><th>카테고리</th><th>트렌드</th><th>전일대비</th><th>최신 지수</th><th>설명</th></tr>
+      </thead>
+      <tbody id="table-body"></tbody>
+    </table>
+  </div>
+
+  <footer class="notes">
+    데이터 출처: 네이버 데이터랩 검색어트렌드(상대 검색량 지수), 네이버 블로그 검색(경쟁도 추정), Google 트렌드 실시간 급상승 검색어(KR).<br>
+    지수는 조회 기간 내 상대값이며 실제 검색 절대량이 아닙니다. 이 페이지는 GitHub Actions가 주기적으로 다시 생성한 data.json을 그대로 보여줍니다 — Claude 세션과 무관하게 자동으로 갱신됩니다.
+  </footer>
+
+</div>
+
+<script>
+let DATA = null;
+let rankOf = {};
+
+function sparkSVG(series, colorVar){
+  if (!series || !series.length) return '';
+  const w = 260, h = 56, pad = 6;
+  const min = Math.min(...series), max = Math.max(...series);
+  const range = (max - min) || 1;
+  const stepX = (w - pad*2) / (series.length - 1 || 1);
+  const pts = series.map((v,i) => {
+    const x = pad + i*stepX;
+    const y = pad + (h - pad*2) * (1 - (v - min)/range);
+    return [x,y];
+  });
+  const path = pts.map((p,i) => (i===0?"M":"L") + p[0].toFixed(1) + "," + p[1].toFixed(1)).join(" ");
+  const last = pts[pts.length-1];
+  return `<svg width="100%" height="${h}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" role="img" aria-label="최근 검색 지수 추이">
+    <path d="${path}" fill="none" stroke="${colorVar}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="${last[0].toFixed(1)}" cy="${last[1].toFixed(1)}" r="4" fill="${colorVar}">
+      <title>${series[series.length-1]}</title>
+    </circle>
+  </svg>`;
+}
+
+function kwTable(subKeywords){
+  if (!subKeywords || !subKeywords.length) return '<p class="reason">세부 키워드가 아직 없습니다.</p>';
+  return subKeywords.map(k => {
+    const arrow = k.trend==='상승' ? '▲' : (k.trend==='하락' ? '▼' : '·');
+    return `<div class="kw-item">
+      <div class="kw-item-head">
+        <span class="kw-name">${k.keyword}</span>
+        <span class="kw-tags">검색량 <b class="tier-${k.volume}">${k.volume}</b> · <b class="trend-${k.trend}">${arrow} ${k.trend}</b> · 경쟁도 <b class="tier-${k.competition}">${k.competition}</b></span>
+      </div>
+      <p class="kw-item-reason">${k.reason || ''}</p>
+    </div>`;
+  }).join('');
+}
+
+function renderHero(items){
+  const top = items[rankOrderFirst()];
+  const el = document.getElementById('hero-section');
+  if (!top) { el.innerHTML = ''; return; }
+  const up = top.deltaPct >= 0;
+  el.innerHTML = `
+    <div>
+      <div class="label">지금 가장 강하게 뜨는 키워드</div>
+      <div><span class="value">${top.keyword}</span><span class="delta" style="color:${up?'var(--delta-up)':'var(--delta-down)'}">${up?'▲':'▼'} ${Math.abs(top.deltaPct)}%</span></div>
+    </div>
+    <div class="desc">${top.reason || ''}</div>`;
+}
+
+function rankOrderFirst(){
+  return Object.keys(rankOf).find(idx => rankOf[idx] === 1);
+}
+
+function renderCards(items){
+  const root = document.getElementById('view-cards');
+  let html = "";
+  items.forEach((it, idx) => {
+    const up = it.deltaPct >= 0;
+    html += `<div class="card">
+      <div class="row1">
+        <span class="pill" style="background:color-mix(in srgb, var(--cat-${it.catKey}) 18%, var(--surface-1)); border-color: var(--cat-${it.catKey})">${it.category}</span>
+        <span class="rank">#${rankOf[idx]}</span>
+      </div>
+      <h3>${it.keyword}</h3>
+      <div class="trend-badge ${up?'up':'down'}">${up?'▲':'▼'} 전일대비 ${Math.abs(it.deltaPct)}%</div>
+      <div class="spark-wrap">${sparkSVG(it.series, 'var(--series-1)')}</div>
+      <p class="reason">${it.reason || ''}</p>
+      <div class="foot"><span>${it.seriesLabel || ''}</span><span>지수 ${it.latest}</span></div>
+      <button class="kw-toggle" onclick="toggleKw(${idx})" id="kw-toggle-${idx}">
+        <span>이 주제의 키워드 ${it.subKeywords ? it.subKeywords.length : 0}개 보기</span><span class="chev">▾</span>
+      </button>
+      <div class="kw-panel hidden" id="kw-panel-${idx}">${kwTable(it.subKeywords)}</div>
+    </div>`;
+  });
+  root.innerHTML = html;
+}
+
+function renderTable(items){
+  const tbody = document.getElementById('table-body');
+  let html = "";
+  items.forEach(it => {
+    const up = it.deltaPct >= 0;
+    const color = up ? 'var(--delta-up)' : 'var(--delta-down)';
+    html += `<tr>
+      <td>${it.keyword}</td>
+      <td>${it.category}</td>
+      <td class="num" style="color:${color}">${up?'▲':'▼'} ${up?'상승':'하락'}</td>
+      <td class="num" style="color:${color}">${up?'+':''}${it.deltaPct}%</td>
+      <td class="num">${it.latest}</td>
+      <td>${it.reason || ''}</td>
+    </tr>`;
+  });
+  tbody.innerHTML = html;
+}
+
+function toggleKw(idx){
+  const panel = document.getElementById('kw-panel-' + idx);
+  const btn = document.getElementById('kw-toggle-' + idx);
+  const willOpen = panel.classList.contains('hidden');
+  panel.classList.toggle('hidden', !willOpen);
+  btn.classList.toggle('open', willOpen);
+}
+
+function setView(v){
+  document.getElementById('view-cards').classList.toggle('hidden', v!=='cards');
+  document.getElementById('view-table').classList.toggle('hidden', v!=='table');
+  document.getElementById('btn-cards').classList.toggle('active', v==='cards');
+  document.getElementById('btn-table').classList.toggle('active', v==='table');
+}
+
+function toggleTheme(){
+  const el = document.documentElement;
+  const current = el.getAttribute('data-theme');
+  if (current === 'dark') { el.setAttribute('data-theme','light'); }
+  else { el.setAttribute('data-theme','dark'); }
+}
+
+async function load(){
+  try {
+    const res = await fetch('./data.json?t=' + Date.now(), { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    DATA = await res.json();
+    const items = DATA.items || [];
+    rankOf = {};
+    items.map((it, idx) => idx)
+      .sort((a, b) => items[b].deltaPct - items[a].deltaPct)
+      .forEach((idx, i) => { rankOf[idx] = i + 1; });
+
+    document.getElementById('updated-meta').textContent =
+      '마지막 갱신: ' + (DATA.generatedAt || '알 수 없음') + ' · 다음 자동 갱신: 평일 09~18시 매시간';
+    renderHero(items);
+    renderCards(items);
+    renderTable(items);
+    document.getElementById('loading').classList.add('hidden');
+    document.getElementById('view-cards').classList.remove('hidden');
+  } catch (e) {
+    document.getElementById('loading').classList.add('hidden');
+    document.getElementById('load-error').classList.remove('hidden');
+    document.getElementById('updated-meta').textContent = '불러오기 실패';
+    console.error(e);
+  }
+}
+
+load();
+</script>
+</body>
+</html>
