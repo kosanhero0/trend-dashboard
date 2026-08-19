@@ -1,6 +1,8 @@
 // 실시간 트렌드 주제 대시보드 - 데이터 생성 스크립트
 // Claude 세션 없이, GitHub Actions가 이 스크립트를 주기적으로 실행해 data.json을 새로 만듭니다.
-// 필요한 환경변수: NAVER_CLIENT_ID, NAVER_CLIENT_SECRET (developers.naver.com 에서 무료 발급)
+// 필요한 환경변수: NAVER_CLIENT_ID, NAVER_CLIENT_SECRET
+// (2026년 이후: developers.naver.com이 아니라 NAVER Cloud Platform의 "NAVER API HUB" / "Search Trend"
+//  서비스에서 발급받은 Client ID/Secret을 사용합니다. README.md 3단계 참고)
 
 const NAVER_CLIENT_ID = process.env.NAVER_CLIENT_ID;
 const NAVER_CLIENT_SECRET = process.env.NAVER_CLIENT_SECRET;
@@ -10,9 +12,10 @@ if (!NAVER_CLIENT_ID || !NAVER_CLIENT_SECRET) {
   process.exit(1);
 }
 
+// NAVER Cloud Platform API Gateway 인증 헤더 (구 developers.naver.com 방식과 다름)
 const NAVER_HEADERS = {
-  'X-Naver-Client-Id': NAVER_CLIENT_ID,
-  'X-Naver-Client-Secret': NAVER_CLIENT_SECRET,
+  'X-NCP-APIGW-API-KEY-ID': NAVER_CLIENT_ID,
+  'X-NCP-APIGW-API-KEY': NAVER_CLIENT_SECRET,
 };
 
 const TOPIC_COUNT = 10;
@@ -58,7 +61,7 @@ async function fetchGoogleTrendsKR() {
   return items;
 }
 
-// ---------- 2. 네이버 데이터랩 검색어트렌드 ----------
+// ---------- 2. 네이버 데이터랩 검색어트렌드 (NAVER API HUB / Search Trend) ----------
 async function datalabSearch(keywordGroups, days = SERIES_DAYS) {
   const body = {
     startDate: ymd(daysAgo(days)),
@@ -66,7 +69,7 @@ async function datalabSearch(keywordGroups, days = SERIES_DAYS) {
     timeUnit: 'date',
     keywordGroups,
   };
-  const res = await fetch('https://openapi.naver.com/v1/datalab/search', {
+  const res = await fetch('https://naveropenapi.apigw.ntruss.com/datalab/v1/search', {
     method: 'POST',
     headers: { ...NAVER_HEADERS, 'Content-Type': 'application/json' },
     body: JSON.stringify(body),
@@ -78,9 +81,9 @@ async function datalabSearch(keywordGroups, days = SERIES_DAYS) {
   return res.json();
 }
 
-// ---------- 3. 네이버 블로그 검색 (경쟁도 추정용) ----------
+// ---------- 3. 네이버 블로그 검색 (경쟁도 추정용, NAVER API HUB) ----------
 async function blogTotal(query) {
-  const url = `https://openapi.naver.com/v1/search/blog.json?query=${encodeURIComponent(query)}&display=1`;
+  const url = `https://naverapihub.apigw.ntruss.com/search/v1/blog?query=${encodeURIComponent(query)}&display=1&format=json`;
   const res = await fetch(url, { headers: NAVER_HEADERS });
   if (!res.ok) return null;
   const json = await res.json();
