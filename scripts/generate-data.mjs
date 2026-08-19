@@ -69,7 +69,7 @@ async function datalabSearch(keywordGroups, days = SERIES_DAYS) {
     timeUnit: 'date',
     keywordGroups,
   };
-  const res = await fetch('https://naveropenapi.apigw.ntruss.com/datalab/v1/search', {
+  const res = await fetch('https://naverapihub.apigw.ntruss.com/search-trend/v1/search', {
     method: 'POST',
     headers: { ...NAVER_HEADERS, 'Content-Type': 'application/json' },
     body: JSON.stringify(body),
