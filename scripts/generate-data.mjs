@@ -61,11 +61,15 @@ async function fetchGoogleTrendsKR() {
   return items;
 }
 
+// 네이버 데이터랩은 보통 "오늘" 데이터는 아직 집계 전이라 확정된 값이 없습니다.
+// 조회 구간을 "어제까지"로 잡아서, 항상 빈 값(0)인 오늘자가 "최신 지수"로 잡히는 걸 방지합니다.
+const REPORT_LAG_DAYS = 1;
+
 // ---------- 2. 네이버 데이터랩 검색어트렌드 (NAVER API HUB / Search Trend) ----------
 async function datalabSearch(keywordGroups, days = SERIES_DAYS) {
   const body = {
-    startDate: ymd(daysAgo(days)),
-    endDate: ymd(daysAgo(0)),
+    startDate: ymd(daysAgo(days - 1 + REPORT_LAG_DAYS)),
+    endDate: ymd(daysAgo(REPORT_LAG_DAYS)),
     timeUnit: 'date',
     keywordGroups,
   };
@@ -119,7 +123,7 @@ function seriesStats(dataPoints, days) {
   const series = [];
   const dates = [];
   for (let i = days - 1; i >= 0; i--) {
-    const d = ymd(daysAgo(i));
+    const d = ymd(daysAgo(i + REPORT_LAG_DAYS));
     series.push(map[d] != null ? Number(map[d].toFixed(2)) : 0);
     dates.push(d.slice(5).replace('-', '/'));
   }
@@ -183,7 +187,8 @@ async function main() {
   }
 
   // 전일대비 변화율 큰 순으로 정렬해 상위 TOPIC_COUNT개 선정
-  topicStats.sort((a, b) => b.deltaPct - a.deltaPct);
+  // 등락률이 같으면(예: 둘 다 0%) 최근 검색 지수가 더 높은 쪽을 우선
+  topicStats.sort((a, b) => (b.deltaPct - a.deltaPct) || (b.latest - a.latest));
   const chosen = topicStats.slice(0, TOPIC_COUNT);
 
   console.log('3) 주제별 세부 키워드 조사...');
