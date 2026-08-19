@@ -23,14 +23,15 @@
    - `.github` 폴더처럼 점(`.`)으로 시작하는 폴더도 그대로 올라가야 합니다. 안 보이면 폴더째로 드래그하세요.
 3. **Commit changes**
 
-### 3. 네이버 오픈API 키 발급 (무료)
-1. [developers.naver.com/apps/#/register](https://developers.naver.com/apps/#/register) 접속 후 로그인
-2. 애플리케이션 이름은 아무거나 (예: 트렌드대시보드)
-3. **사용 API**에서 다음 두 가지를 체크:
-   - 검색 (블로그, 뉴스 등)
-   - 데이터랩(검색어트렌드)
-4. 서비스 환경은 **웹 서비스 URL**을 선택하고, URL 칸에는 1단계에서 만든 저장소 주소나 `https://github.com` 아무거나 입력해도 됩니다 (실제로 이 URL로 트래픽을 보내지 않으므로 크게 중요하지 않습니다)
-5. 등록하면 **Client ID**와 **Client Secret**이 발급됩니다. 이 두 값을 복사해두세요 (Secret은 다시 안 보여줄 수 있으니 꼭 저장).
+### 3. 네이버 API 키 발급 (무료, 2026년 기준 NAVER Cloud Platform 방식)
+
+> ⚠️ 예전에는 developers.naver.com에서 바로 발급했지만, 2026년 검색/데이터랩 API가 **NAVER Cloud Platform(NCP)의 "NAVER API HUB"** 서비스로 이전되었습니다. 아래는 그 새 방식입니다.
+
+1. [console.ncloud.com](https://console.ncloud.com) 접속 → 네이버 계정으로 로그인/가입 (콘솔 최초 진입 시 휴대폰 인증이나 결제수단 등록을 요구할 수 있습니다 — 무료 사용량 안에서는 과금되지 않습니다)
+2. 콘솔에서 **NAVER API HUB** 검색 → 들어가면 API가 카드 형태로 낱개 나열됩니다
+3. 그중 **검색어트렌드**(Data Lab Search Trend API)와 **블로그**(NAVER Search Blog API) 두 카드의 체크박스를 선택
+4. 이어지는 화면에서 Application 이름을 아무거나 입력(예: 트렌드대시보드)하고 등록 진행
+5. 등록 후 **인증 정보** 화면에서 **Client ID**, **Client Secret**을 확인 → 복사해두세요 (Secret은 다시 안 보여줄 수 있으니 꼭 저장)
 
 ### 4. GitHub 저장소에 키 등록 (Secrets)
 1. 저장소 → **Settings** → 왼쪽 메뉴 **Secrets and variables → Actions**
