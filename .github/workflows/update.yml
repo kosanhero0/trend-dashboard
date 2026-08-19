@@ -1,0 +1,36 @@
+name: Update trend dashboard data
+
+on:
+  schedule:
+    # 평일(월~금) 09:00~18:00 KST = UTC 00:00~09:00, 매시 정각
+    - cron: '0 0-9 * * 1-5'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate data.json
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+        run: node scripts/generate-data.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "trend-dashboard-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "chore: update trend dashboard data [skip ci]"
+          git push
