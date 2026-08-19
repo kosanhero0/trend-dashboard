@@ -151,10 +151,20 @@ function trendLabel(series) {
   return '유지';
 }
 
-// ---------- 6. 롱테일 키워드 후보 생성 (기계적 조합) ----------
-const SUFFIXES = ['이유', '뜻', '정리', '근황', '프로필', '방법', '논란', '전망', '총정리', '반응'];
-function buildKeywordCandidates(topic) {
-  return SUFFIXES.map(s => `${topic} ${s}`);
+// ---------- 6. 롱테일 키워드 후보 생성 (카테고리별로 실제 검색될 법한 접미사 사용) ----------
+// 모든 주제에 같은 접미사를 붙이면 "OO 주가 뜻"처럼 말이 안 되는 조합이 생겨 검색량이 항상 0으로 잡힙니다.
+// 카테고리별로 자연스러운 접미사를 다르게 써서 실제 검색어에 가깝게 만듭니다.
+const CATEGORY_SUFFIXES = {
+  econ: ['전망', '이유', '정리', '논란', '영향', '대책', '총정리', '반응', '배경', '전략'],
+  politics: ['이유', '전망', '정리', '논란', '반응', '배경', '총정리', '입장', '영향', '뜻'],
+  edu: ['일정', '방법', '정리', '전망', '준비', '총정리', '반응', '팁', '후기', '결과'],
+  season: ['준비', '추천', '정리', '가격', '방법', '팁', '총정리', '시기', '반응', '리스트'],
+  society: ['이유', '정리', '논란', '반응', '배경', '총정리', '전망', '영향', '뜻', '후속'],
+  culture: ['근황', '프로필', '나이', '열애설', '논란', '사건', '반응', '정리', '이유', '뜻'],
+};
+function buildKeywordCandidates(topic, catKey) {
+  const suffixes = CATEGORY_SUFFIXES[catKey] || CATEGORY_SUFFIXES.culture;
+  return suffixes.map(s => `${topic} ${s}`);
 }
 
 // ---------- 7. 메인 파이프라인 ----------
@@ -194,8 +204,8 @@ async function main() {
   console.log('3) 주제별 세부 키워드 조사...');
   const items = [];
   for (const topic of chosen) {
-    const cat = guessCategory(topic.title);
-    const kwCandidates = buildKeywordCandidates(topic.title);
+        const cat = guessCategory(topic.title);
+    const kwCandidates = buildKeywordCandidates(topic.title, cat.key);
     const kwStats = [];
     for (let i = 0; i < kwCandidates.length; i += 5) {
       const batch = kwCandidates.slice(i, i + 5);
