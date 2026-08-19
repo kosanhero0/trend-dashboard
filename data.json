@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19(수) 14:21 KST",
+  "generatedAt": "2026-08-19(수) 15:02 KST",
   "items": [
     {
       "keyword": "하이닉스 주가",
@@ -115,25 +115,25 @@
       ]
     },
     {
-      "keyword": "hj중공업",
+      "keyword": "레이디 제인",
       "category": "연예",
       "catKey": "culture",
-      "reason": "&quot;작은집도 슈퍼사이클&quot;…K-중소 조선사, 상반기 실적 2배 &apos;껑충&apos;",
+      "reason": "‘레이디제인♥’ 임현태, 쌍둥이 딸 하버드 꿈꿨는데..’발달 지연 경계’ 진단에 충격",
       "series": [
-        44.81,
-        36.01,
-        33.14,
-        7.06,
-        7.53,
-        42.58,
-        41.46,
-        53.64,
-        53.37,
-        47.09,
-        9.66,
-        7.65,
-        9.9,
-        41.06
+        7.51,
+        56.18,
+        30.58,
+        14.42,
+        13.15,
+        7.19,
+        9.24,
+        6.36,
+        5.63,
+        5.79,
+        5.52,
+        7.85,
+        16.94,
+        100
       ],
       "dates": [
         "08/05",
@@ -151,79 +151,305 @@
         "08/17",
         "08/18"
       ],
-      "deltaPct": 315,
-      "latest": 41.06,
+      "deltaPct": 490,
+      "latest": 100,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "hj중공업 근황",
+          "keyword": "레이디 제인 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "hj중공업 프로필",
+          "keyword": "레이디 제인 프로필",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "하",
+          "reason": "검색 지수 100, 전일대비 +1553%."
+        },
+        {
+          "keyword": "레이디 제인 나이",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "하",
+          "reason": "검색 지수 53.54, 전일대비 +1160%."
+        },
+        {
+          "keyword": "레이디 제인 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "레이디 제인 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "레이디 제인 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "레이디 제인 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "레이디 제인 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "레이디 제인 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "레이디 제인 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "오타니 쇼헤이",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "LA 다저스 오타니, 메이저리그 6년 연속 30홈런 달성",
+      "series": [
+        0.36,
+        0.68,
+        0.38,
+        0.52,
+        0.46,
+        0.35,
+        0.47,
+        0.42,
+        0.49,
+        0.41,
+        0.38,
+        0.31,
+        0.32,
+        0.86
+      ],
+      "dates": [
+        "08/05",
+        "08/06",
+        "08/07",
+        "08/08",
+        "08/09",
+        "08/10",
+        "08/11",
+        "08/12",
+        "08/13",
+        "08/14",
+        "08/15",
+        "08/16",
+        "08/17",
+        "08/18"
+      ],
+      "deltaPct": 169,
+      "latest": 0.86,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "오타니 쇼헤이 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "hj중공업 나이",
+          "keyword": "오타니 쇼헤이 프로필",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "하",
+          "reason": "검색 지수 92.19, 전일대비 +64%."
+        },
+        {
+          "keyword": "오타니 쇼헤이 나이",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "오타니 쇼헤이 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "오타니 쇼헤이 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "오타니 쇼헤이 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "오타니 쇼헤이 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "오타니 쇼헤이 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "오타니 쇼헤이 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "오타니 쇼헤이 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "민방위",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "내일 오후 2시 사이렌 울리면 대피…전국 민방위 훈련",
+      "series": [
+        15.52,
+        18.17,
+        16.49,
+        7.53,
+        8.08,
+        27.03,
+        23.03,
+        20.64,
+        22.12,
+        18.5,
+        8.78,
+        12.48,
+        22.18,
+        57.58
+      ],
+      "dates": [
+        "08/05",
+        "08/06",
+        "08/07",
+        "08/08",
+        "08/09",
+        "08/10",
+        "08/11",
+        "08/12",
+        "08/13",
+        "08/14",
+        "08/15",
+        "08/16",
+        "08/17",
+        "08/18"
+      ],
+      "deltaPct": 160,
+      "latest": 57.58,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "민방위 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "hj중공업 열애설",
+          "keyword": "민방위 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "hj중공업 논란",
+          "keyword": "민방위 나이",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "하",
+          "reason": "검색 지수 100, 전일대비 +194%."
+        },
+        {
+          "keyword": "민방위 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "hj중공업 사건",
+          "keyword": "민방위 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "hj중공업 반응",
+          "keyword": "민방위 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "hj중공업 정리",
+          "keyword": "민방위 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "hj중공업 이유",
+          "keyword": "민방위 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "hj중공업 뜻",
+          "keyword": "민방위 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "민방위 뜻",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "하",
+          "reason": "검색 지수 100, 전일대비 +30%."
         }
       ]
     },
@@ -341,25 +567,25 @@
       ]
     },
     {
-      "keyword": "1달러",
+      "keyword": "삼청교육대",
       "category": "연예",
       "catKey": "culture",
-      "reason": "리플 4파 조정 끝내고 5파 반등 시동… 대장주 추월할까",
+      "reason": "&apos;삼청교육대 10배 규모&apos;... 법무부, 교도소 순화교육 진상조사 나서야",
       "series": [
-        77.85,
-        80.88,
-        80.79,
-        48.92,
-        42.06,
-        87.38,
-        77.59,
-        72.49,
-        68.87,
-        69.26,
-        39.15,
-        32.06,
-        45.19,
-        74.04
+        5.31,
+        5.63,
+        7.46,
+        6.91,
+        5.58,
+        6.18,
+        6.05,
+        5.33,
+        4.82,
+        5.16,
+        3.59,
+        3.72,
+        3.49,
+        4.33
       ],
       "dates": [
         "08/05",
@@ -377,78 +603,78 @@
         "08/17",
         "08/18"
       ],
-      "deltaPct": 64,
-      "latest": 74.04,
+      "deltaPct": 24,
+      "latest": 4.33,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "1달러 근황",
+          "keyword": "삼청교육대 근황",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "1달러 프로필",
+          "keyword": "삼청교육대 프로필",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "1달러 나이",
+          "keyword": "삼청교육대 나이",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "1달러 열애설",
+          "keyword": "삼청교육대 열애설",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "1달러 논란",
+          "keyword": "삼청교육대 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "1달러 사건",
+          "keyword": "삼청교육대 사건",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "1달러 반응",
+          "keyword": "삼청교육대 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "1달러 정리",
+          "keyword": "삼청교육대 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "1달러 이유",
+          "keyword": "삼청교육대 이유",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "1달러 뜻",
+          "keyword": "삼청교육대 뜻",
           "volume": "하",
-          "trend": "신규",
-          "competition": "중",
+          "trend": "유지",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
@@ -567,123 +793,10 @@
       ]
     },
     {
-      "keyword": "무덤",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "&quot;죽음이 두렵지 않게&quot; 아버지가 팠던 딸 무덤…9년 뒤 기적이 일어났다",
-      "series": [
-        0.01,
-        0.01,
-        0.01,
-        0.01,
-        0.01,
-        0.01,
-        0.01,
-        0.01,
-        0.01,
-        0.01,
-        0.01,
-        0.01,
-        0.01,
-        0.01
-      ],
-      "dates": [
-        "08/05",
-        "08/06",
-        "08/07",
-        "08/08",
-        "08/09",
-        "08/10",
-        "08/11",
-        "08/12",
-        "08/13",
-        "08/14",
-        "08/15",
-        "08/16",
-        "08/17",
-        "08/18"
-      ],
-      "deltaPct": 0,
-      "latest": 0.01,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "무덤 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "무덤 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "무덤 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "무덤 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "무덤 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "무덤 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "무덤 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "무덤 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "무덤 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "무덤 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
       "keyword": "그랜드 테 프트 오토 vi",
       "category": "연예",
       "catKey": "culture",
-      "reason": "석 달 앞 &apos;GTA6&apos; 출시…국내외 게임사들 눈치 싸움",
+      "reason": "넷플릭스 통해 공개 앞둔 ‘GTA 6’…해킹 그룹에 의해 정보 유출",
       "series": [
         0,
         0,
@@ -793,25 +906,25 @@
       ]
     },
     {
-      "keyword": "피겨스케이팅",
+      "keyword": "dior",
       "category": "연예",
       "catKey": "culture",
-      "reason": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! &quot;맹훈련, 너무 아프겠지만...&quot; - 머니투데이",
+      "reason": "Blackpink Jeesoo mourns Dior publicist Mathilde Favier&apos;s death - CHOSUNBIZ",
       "series": [
-        1.13,
-        1.04,
-        1.05,
-        0.98,
-        1.26,
-        1.37,
-        1.4,
-        0.89,
-        0.93,
-        1,
-        0.99,
-        1.07,
-        0.97,
-        0.95
+        6.87,
+        7.1,
+        9.66,
+        8.12,
+        8.37,
+        6.92,
+        7.74,
+        7.59,
+        7.17,
+        7.57,
+        8.44,
+        7.78,
+        8.86,
+        8.73
       ],
       "dates": [
         "08/05",
@@ -829,109 +942,102 @@
         "08/17",
         "08/18"
       ],
-      "deltaPct": -2,
-      "latest": 0.95,
-      "seriesLabel": "최근 14일",
-      "subKeywords": []
-    },
-    {
-      "keyword": "이혼",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "하리수 &quot;미키정과 이혼 후에도 응원…재혼 생각은 없어&quot;",
-      "series": [
-        4.16,
-        4.77,
-        3.98,
-        4.79,
-        4.55,
-        4.11,
-        3.9,
-        4.14,
-        4.63,
-        4.32,
-        4.59,
-        4.22,
-        5.16,
-        3.99
-      ],
-      "dates": [
-        "08/05",
-        "08/06",
-        "08/07",
-        "08/08",
-        "08/09",
-        "08/10",
-        "08/11",
-        "08/12",
-        "08/13",
-        "08/14",
-        "08/15",
-        "08/16",
-        "08/17",
-        "08/18"
-      ],
-      "deltaPct": -23,
-      "latest": 3.99,
+      "deltaPct": -1,
+      "latest": 8.73,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "이혼 사건",
+          "keyword": "dior 근황",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "이혼 반응",
+          "keyword": "dior 프로필",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "이혼 정리",
+          "keyword": "dior 나이",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "dior 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이혼 이유",
+          "keyword": "dior 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이혼 뜻",
-          "volume": "상",
+          "keyword": "dior 사건",
+          "volume": "하",
           "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 43.75, 전일대비 +100%."
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "dior 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "dior 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "dior 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "dior 뜻",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
     },
     {
-      "keyword": "f-35a",
+      "keyword": "f 35a",
       "category": "연예",
       "catKey": "culture",
       "reason": "Germany’s first F-35 leaves final assembly as Luftwaffe eyes 15 more",
       "series": [
-        0.07,
-        0.07,
-        0.05,
         0,
-        0,
-        0.1,
-        0.05,
-        0.05,
-        0,
-        0.08,
         0.09,
         0,
-        0.06,
-        0
+        0.09,
+        0,
+        0,
+        0,
+        0.11,
+        0,
+        0.17,
+        0,
+        0.11,
+        0.15,
+        0.13
       ],
       "dates": [
         "08/05",
@@ -949,75 +1055,75 @@
         "08/17",
         "08/18"
       ],
-      "deltaPct": -100,
-      "latest": 0,
+      "deltaPct": -13,
+      "latest": 0.13,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "f-35a 근황",
+          "keyword": "f 35a 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "f-35a 프로필",
+          "keyword": "f 35a 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "f-35a 나이",
+          "keyword": "f 35a 나이",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "f-35a 열애설",
+          "keyword": "f 35a 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "f-35a 논란",
+          "keyword": "f 35a 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "f-35a 사건",
+          "keyword": "f 35a 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "f-35a 반응",
+          "keyword": "f 35a 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "f-35a 정리",
+          "keyword": "f 35a 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "f-35a 이유",
+          "keyword": "f 35a 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "f-35a 뜻",
+          "keyword": "f 35a 뜻",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
