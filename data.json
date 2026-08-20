@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-08-20(목) 12:15 KST",
+  "generatedAt": "2026-08-20(목) 14:20 KST",
   "items": [
     {
-      "keyword": "기욤 패트리",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "쯔양도 울고 갈 듯…기욤 36개월 딸 레아, 충격의 &apos;16첩 폭풍 먹방&apos; [슈돌]",
+      "keyword": "18 호 태풍",
+      "category": "계절",
+      "catKey": "season",
+      "reason": "그동안 비껴갔지만…18호 태풍 ‘사우델’ 한반도 영향 줄까",
       "series": [
-        0.04,
-        0.92,
-        0.49,
-        0.55,
+        0.27,
         0.21,
-        0.11,
-        0.23,
-        0.24,
-        0.18,
-        0.11,
-        0.22,
-        0.16,
-        0.29,
-        11.19
+        0.2,
+        0.4,
+        0.88,
+        1.76,
+        11.49,
+        19.1,
+        11.73,
+        11.41,
+        14.22,
+        15.97,
+        28.53,
+        100
       ],
       "dates": [
         "08/06",
@@ -38,102 +38,102 @@
         "08/18",
         "08/19"
       ],
-      "deltaPct": 3759,
-      "latest": 11.19,
+      "deltaPct": 251,
+      "latest": 100,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "기욤 패트리 근황",
+          "keyword": "18 호 태풍 준비",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0.6, 전일대비 +100%. (참고값, 개별 검증 전)"
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "기욤 패트리 프로필",
-          "volume": "상",
-          "trend": "상승",
-          "competition": "하",
-          "reason": "검색 지수 100, 전일대비 +7534%."
-        },
-        {
-          "keyword": "기욤 패트리 나이",
+          "keyword": "18 호 태풍 추천",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 7.15, 전일대비 +100%."
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "기욤 패트리 열애설",
+          "keyword": "18 호 태풍 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0.6, 전일대비 +100%. (참고값, 개별 검증 전)"
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "기욤 패트리 논란",
+          "keyword": "18 호 태풍 가격",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 1.79, 전일대비 +100%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "기욤 패트리 사건",
-          "volume": "상",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 100, 전일대비 +100%."
-        },
-        {
-          "keyword": "기욤 패트리 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "기욤 패트리 정리",
+          "keyword": "18 호 태풍 방법",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "기욤 패트리 이유",
+          "keyword": "18 호 태풍 팁",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "기욤 패트리 뜻",
+          "keyword": "18 호 태풍 총정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "18 호 태풍 시기",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "18 호 태풍 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "18 호 태풍 리스트",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
     },
     {
-      "keyword": "한미연합훈련",
+      "keyword": "박하선",
       "category": "연예",
       "catKey": "culture",
-      "reason": "김여정 &quot;북미 소통 모르는 일&quot;…트럼프 회담 추진에 찬물",
+      "reason": "박하선, LA 명품 편집숍서 &apos;득템&apos;…쿠팡 모자에 공짜 물까지",
       "series": [
-        0.31,
-        0.18,
-        0.11,
-        0.12,
-        0.37,
-        0.43,
-        0.62,
-        0.47,
+        0.32,
         0.46,
-        0.3,
-        0.44,
-        6.17,
-        7.72,
-        12.17
+        0.35,
+        0.35,
+        1.4,
+        1.04,
+        0.5,
+        0.81,
+        0.87,
+        0.53,
+        0.38,
+        0.49,
+        0.34,
+        0.5
       ],
       "dates": [
         "08/06",
@@ -151,102 +151,102 @@
         "08/18",
         "08/19"
       ],
-      "deltaPct": 58,
-      "latest": 12.17,
+      "deltaPct": 47,
+      "latest": 0.5,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "한미연합훈련 근황",
+          "keyword": "박하선 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "한미연합훈련 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "한미연합훈련 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "한미연합훈련 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "한미연합훈련 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "한미연합훈련 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "한미연합훈련 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "한미연합훈련 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "한미연합훈련 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "한미연합훈련 뜻",
+          "keyword": "박하선 프로필",
           "volume": "상",
+          "trend": "하락",
+          "competition": "하",
+          "reason": "검색 지수 25.14, 전일대비 -19%."
+        },
+        {
+          "keyword": "박하선 나이",
+          "volume": "상",
+          "trend": "하락",
+          "competition": "하",
+          "reason": "검색 지수 22.4, 전일대비 -23%."
+        },
+        {
+          "keyword": "박하선 열애설",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "박하선 논란",
+          "volume": "하",
           "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 100, 전일대비 +100%."
+          "competition": "하",
+          "reason": "검색 지수 1.37, 전일대비 +100%."
+        },
+        {
+          "keyword": "박하선 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "박하선 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "박하선 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "박하선 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "박하선 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
     },
     {
-      "keyword": "이정후",
+      "keyword": "갑질",
       "category": "연예",
       "catKey": "culture",
-      "reason": "MLB 이정후, 시즌 37번째 멀티히트…타율 3할 복귀 시동(종합)",
+      "reason": "&apos;오토바이 금지&apos; 아파트 갑질 논란 터지더니…배민도 나섰다",
       "series": [
-        34.34,
-        28.18,
-        51.06,
-        36.66,
-        30.15,
-        62.04,
-        39.94,
-        27.42,
-        23.27,
-        28.76,
-        34.35,
-        26.19,
-        25.28,
-        32.47
+        0.72,
+        0.66,
+        0.55,
+        0.33,
+        0.68,
+        0.92,
+        0.7,
+        0.79,
+        0.48,
+        0.43,
+        0.35,
+        0.33,
+        0.55,
+        0.78
       ],
       "dates": [
         "08/06",
@@ -264,75 +264,188 @@
         "08/18",
         "08/19"
       ],
-      "deltaPct": 28,
-      "latest": 32.47,
+      "deltaPct": 42,
+      "latest": 0.78,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "이정후 근황",
+          "keyword": "갑질 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "갑질 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "갑질 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "갑질 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "갑질 논란",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "갑질 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "갑질 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "갑질 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "갑질 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "갑질 뜻",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "중",
+          "reason": "검색 지수 40.51, 전일대비 +23%."
+        }
+      ]
+    },
+    {
+      "keyword": "이휘향",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "이휘향 &quot;악역만 하다 보니 힘들어…배우 그만두려 했다&quot; 고백",
+      "series": [
+        0.05,
+        0.05,
+        0.05,
+        0.03,
+        0.03,
+        0.03,
+        0.03,
+        0.07,
+        0.07,
+        0.05,
+        0.07,
+        0.11,
+        0.06,
+        0.08
+      ],
+      "dates": [
+        "08/06",
+        "08/07",
+        "08/08",
+        "08/09",
+        "08/10",
+        "08/11",
+        "08/12",
+        "08/13",
+        "08/14",
+        "08/15",
+        "08/16",
+        "08/17",
+        "08/18",
+        "08/19"
+      ],
+      "deltaPct": 33,
+      "latest": 0.08,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "이휘향 근황",
           "volume": "하",
           "trend": "유지",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "이정후 프로필",
+          "keyword": "이휘향 프로필",
           "volume": "상",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 34.22, 전일대비 +0%."
-        },
-        {
-          "keyword": "이정후 나이",
-          "volume": "중",
           "trend": "상승",
           "competition": "하",
-          "reason": "검색 지수 4.61, 전일대비 +12%."
+          "reason": "검색 지수 57.14, 전일대비 +51%."
         },
         {
-          "keyword": "이정후 열애설",
+          "keyword": "이휘향 나이",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "하",
+          "reason": "검색 지수 29.59, 전일대비 +61%."
+        },
+        {
+          "keyword": "이휘향 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이정후 논란",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "이정후 사건",
+          "keyword": "이휘향 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이정후 반응",
+          "keyword": "이휘향 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이정후 정리",
+          "keyword": "이휘향 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이정후 이유",
+          "keyword": "이휘향 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이정후 뜻",
+          "keyword": "이휘향 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "이휘향 뜻",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
@@ -341,25 +454,138 @@
       ]
     },
     {
-      "keyword": "이더 리움",
+      "keyword": "김종인",
       "category": "연예",
       "catKey": "culture",
-      "reason": "“석달만에 온 구조대, 그 정체는 대통령”…비트코인 7만달러에 육박",
+      "reason": "민주당 “이진숙 국회의원 자격 반드시 묻겠다” [지금뉴스]",
       "series": [
-        18.24,
-        17.46,
-        12.55,
-        12.55,
-        18.12,
-        16.33,
-        16.33,
-        16.15,
-        15.02,
-        10.2,
-        9.77,
-        12.2,
-        15.59,
-        16.23
+        0.05,
+        0.05,
+        0.05,
+        0.04,
+        0.05,
+        0.04,
+        0.05,
+        0.08,
+        0.09,
+        0.07,
+        0.08,
+        0.07,
+        0.05,
+        0.06
+      ],
+      "dates": [
+        "08/06",
+        "08/07",
+        "08/08",
+        "08/09",
+        "08/10",
+        "08/11",
+        "08/12",
+        "08/13",
+        "08/14",
+        "08/15",
+        "08/16",
+        "08/17",
+        "08/18",
+        "08/19"
+      ],
+      "deltaPct": 20,
+      "latest": 0.06,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "김종인 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "김종인 프로필",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "하",
+          "reason": "검색 지수 46.3, 전일대비 +39%."
+        },
+        {
+          "keyword": "김종인 나이",
+          "volume": "하",
+          "trend": "하락",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 -100%."
+        },
+        {
+          "keyword": "김종인 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "김종인 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "김종인 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "김종인 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "김종인 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "김종인 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "김종인 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "서울날씨",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "[날씨] 무더위 속 소나기…돌풍·벼락 유의",
+      "series": [
+        52.68,
+        51.91,
+        55.26,
+        46.92,
+        39.73,
+        36.89,
+        37.2,
+        42.74,
+        73.72,
+        77.09,
+        73.34,
+        64.21,
+        37.66,
+        39.32
       ],
       "dates": [
         "08/06",
@@ -378,101 +604,101 @@
         "08/19"
       ],
       "deltaPct": 4,
-      "latest": 16.23,
+      "latest": 39.32,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "이더 리움 근황",
+          "keyword": "서울날씨 근황",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "이더 리움 프로필",
+          "keyword": "서울날씨 프로필",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "이더 리움 나이",
+          "keyword": "서울날씨 나이",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "이더 리움 열애설",
+          "keyword": "서울날씨 열애설",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이더 리움 논란",
+          "keyword": "서울날씨 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이더 리움 사건",
+          "keyword": "서울날씨 사건",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이더 리움 반응",
+          "keyword": "서울날씨 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이더 리움 정리",
+          "keyword": "서울날씨 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이더 리움 이유",
+          "keyword": "서울날씨 이유",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "이더 리움 뜻",
+          "keyword": "서울날씨 뜻",
           "volume": "하",
-          "trend": "유지",
-          "competition": "하",
+          "trend": "신규",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
     },
     {
-      "keyword": "원 이",
+      "keyword": "일기예보",
       "category": "연예",
       "catKey": "culture",
-      "reason": "리센느 원이, 돌연 &apos;탈퇴&apos;→졸지에 &apos;6인조&apos;…무슨 일?",
+      "reason": "8월 20일 날씨 예보: 여러 지역에 천둥번개가 예상됩니다.",
       "series": [
-        3.89,
-        4.04,
-        5.27,
-        7.93,
-        5.84,
-        5.17,
-        5.54,
-        4.83,
-        4.87,
-        5.6,
-        4.98,
-        6.48,
-        5.15,
-        4.86
+        7.35,
+        8.25,
+        11.4,
+        9.91,
+        7.69,
+        6.75,
+        7.71,
+        9.43,
+        12.73,
+        14.97,
+        14.09,
+        12.97,
+        8.79,
+        8.06
       ],
       "dates": [
         "08/06",
@@ -490,102 +716,102 @@
         "08/18",
         "08/19"
       ],
-      "deltaPct": -6,
-      "latest": 4.86,
+      "deltaPct": -8,
+      "latest": 8.06,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "원 이 근황",
+          "keyword": "일기예보 근황",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "원 이 프로필",
+          "keyword": "일기예보 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "일기예보 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "일기예보 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "일기예보 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "일기예보 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "일기예보 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "일기예보 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "일기예보 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "일기예보 뜻",
           "volume": "하",
           "trend": "유지",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "원 이 나이",
-          "volume": "상",
-          "trend": "하락",
-          "competition": "상",
-          "reason": "검색 지수 28.41, 전일대비 -16%."
-        },
-        {
-          "keyword": "원 이 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "원 이 논란",
-          "volume": "하",
-          "trend": "하락",
-          "competition": "상",
-          "reason": "검색 지수 0.56, 전일대비 -38%."
-        },
-        {
-          "keyword": "원 이 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "원 이 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "원 이 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "원 이 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "원 이 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
     },
     {
-      "keyword": "개",
+      "keyword": "교장",
       "category": "연예",
       "catKey": "culture",
-      "reason": "트럼프 “김정은, 매우 강력한 핵무기 57개 보유” 숫자 첫 공개···“연내 만나겠다”며 대화 목표엔 답변 회피",
+      "reason": "뇌출혈 딛고 평교사로 돌아갔던 교장선생님, 5명에게 생명 나눔",
       "series": [
-        0.29,
-        0.31,
-        0.31,
-        0.33,
-        0.28,
+        0.85,
+        0.65,
+        0.5,
+        0.34,
+        0.44,
+        0.43,
+        0.47,
+        0.35,
+        0.34,
         0.27,
-        0.31,
-        0.29,
-        0.32,
-        0.37,
-        0.31,
-        0.31,
-        0.29,
-        0.27
+        0.38,
+        0.34,
+        0.38,
+        0.33
       ],
       "dates": [
         "08/06",
@@ -603,328 +829,215 @@
         "08/18",
         "08/19"
       ],
-      "deltaPct": -7,
-      "latest": 0.27,
+      "deltaPct": -13,
+      "latest": 0.33,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "개 근황",
+          "keyword": "교장 근황",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "개 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "개 나이",
-          "volume": "상",
-          "trend": "하락",
-          "competition": "상",
-          "reason": "검색 지수 28.57, 전일대비 -17%."
-        },
-        {
-          "keyword": "개 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "개 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "개 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "개 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "개 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "개 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "개 뜻",
-          "volume": "하",
-          "trend": "하락",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 -100%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "영화",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "하정우, &apos;내부자들&apos; 프리퀄 &apos;악인들의 탄생&apos; 주연",
-      "series": [
-        82.73,
-        88.19,
-        97.91,
-        82.25,
-        69.3,
-        59.58,
-        61.24,
-        60.59,
-        70.26,
-        85.94,
-        86.84,
-        68.59,
-        52.13,
-        46.93
-      ],
-      "dates": [
-        "08/06",
-        "08/07",
-        "08/08",
-        "08/09",
-        "08/10",
-        "08/11",
-        "08/12",
-        "08/13",
-        "08/14",
-        "08/15",
-        "08/16",
-        "08/17",
-        "08/18",
-        "08/19"
-      ],
-      "deltaPct": -10,
-      "latest": 46.93,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "영화 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "영화 프로필",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "영화 나이",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "영화 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "영화 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "영화 사건",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "영화 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "영화 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "영화 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "영화 뜻",
-          "volume": "상",
-          "trend": "하락",
-          "competition": "상",
-          "reason": "검색 지수 50, 전일대비 -6%."
-        }
-      ]
-    },
-    {
-      "keyword": "장동혁",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "권영세, ‘중진 불출마’ 언급한 장동혁 향해 “물러나는게 더 맞겠다 생각”",
-      "series": [
-        10.44,
-        7.6,
-        5.82,
-        6.03,
-        8.2,
-        8.63,
-        10.6,
-        9.48,
-        9.37,
-        11.44,
-        9.48,
-        11.69,
-        10.2,
-        9.12
-      ],
-      "dates": [
-        "08/06",
-        "08/07",
-        "08/08",
-        "08/09",
-        "08/10",
-        "08/11",
-        "08/12",
-        "08/13",
-        "08/14",
-        "08/15",
-        "08/16",
-        "08/17",
-        "08/18",
-        "08/19"
-      ],
-      "deltaPct": -11,
-      "latest": 9.12,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "장동혁 근황",
-          "volume": "하",
-          "trend": "유지",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "장동혁 프로필",
+          "keyword": "교장 프로필",
+          "volume": "상",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 75, 전일대비 +100%."
+        },
+        {
+          "keyword": "교장 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "교장 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "교장 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "교장 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "교장 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "교장 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "교장 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "교장 뜻",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "폴리마켓",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "&quot;폴리마켓은 도박장&quot; 접속 차단에…예측시장 산업도 막힌 한국",
+      "series": [
+        4.22,
+        2.91,
+        1.64,
+        1.79,
+        2.1,
+        2.59,
+        2.48,
+        1.86,
+        1.76,
+        1.37,
+        1.13,
+        1.35,
+        7.06,
+        5.85
+      ],
+      "dates": [
+        "08/06",
+        "08/07",
+        "08/08",
+        "08/09",
+        "08/10",
+        "08/11",
+        "08/12",
+        "08/13",
+        "08/14",
+        "08/15",
+        "08/16",
+        "08/17",
+        "08/18",
+        "08/19"
+      ],
+      "deltaPct": -17,
+      "latest": 5.85,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "폴리마켓 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "폴리마켓 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "폴리마켓 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "폴리마켓 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "폴리마켓 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "폴리마켓 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "폴리마켓 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "폴리마켓 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "폴리마켓 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "폴리마켓 뜻",
           "volume": "상",
           "trend": "상승",
           "competition": "하",
-          "reason": "검색 지수 100, 전일대비 +22%."
-        },
-        {
-          "keyword": "장동혁 나이",
-          "volume": "하",
-          "trend": "하락",
-          "competition": "하",
-          "reason": "검색 지수 6.12, 전일대비 -40%."
-        },
-        {
-          "keyword": "장동혁 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "장동혁 논란",
-          "volume": "하",
-          "trend": "하락",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 -100%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "장동혁 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "장동혁 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "장동혁 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "장동혁 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "장동혁 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+          "reason": "검색 지수 100, 전일대비 +152%."
         }
       ]
     },
     {
-      "keyword": "에버랜드",
+      "keyword": "부천시",
       "category": "연예",
       "catKey": "culture",
-      "reason": "에버랜드 쌍둥이 판다 루이·후이, 제주도로 떠난다…&apos;대한민국 구석구석&apos; 3탄 공개",
+      "reason": "부천시, 상동·대장에 미래산업 성장거점 조성",
       "series": [
-        15.57,
-        15.94,
-        17.66,
-        20.55,
-        22.63,
-        24.62,
-        25.7,
-        27.94,
-        27.75,
-        31.94,
-        31.96,
-        23.51,
-        25.57,
-        22.57
+        5.12,
+        4.47,
+        2.89,
+        2.78,
+        5.74,
+        4.96,
+        4.9,
+        5.04,
+        5.33,
+        2.98,
+        3.09,
+        3.34,
+        7.9,
+        5.77
       ],
       "dates": [
         "08/06",
@@ -942,188 +1055,75 @@
         "08/18",
         "08/19"
       ],
-      "deltaPct": -12,
-      "latest": 22.57,
+      "deltaPct": -27,
+      "latest": 5.77,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "에버랜드 근황",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "에버랜드 프로필",
+          "keyword": "부천시 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "에버랜드 나이",
+          "keyword": "부천시 프로필",
           "volume": "하",
-          "trend": "하락",
+          "trend": "신규",
           "competition": "중",
-          "reason": "검색 지수 0, 전일대비 -100%."
-        },
-        {
-          "keyword": "에버랜드 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "에버랜드 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "에버랜드 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "에버랜드 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "에버랜드 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "에버랜드 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "에버랜드 뜻",
-          "volume": "하",
-          "trend": "하락",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 -100%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "한푸",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "[포토타임] 한푸 입고 경복궁 누비는 中인플루언서…“한복 오해 우려”",
-      "series": [
-        0.04,
-        0.06,
-        0.04,
-        0.05,
-        0.04,
-        0.05,
-        0.06,
-        0.04,
-        0.05,
-        0.05,
-        0.05,
-        0.05,
-        0.05,
-        0.04
-      ],
-      "dates": [
-        "08/06",
-        "08/07",
-        "08/08",
-        "08/09",
-        "08/10",
-        "08/11",
-        "08/12",
-        "08/13",
-        "08/14",
-        "08/15",
-        "08/16",
-        "08/17",
-        "08/18",
-        "08/19"
-      ],
-      "deltaPct": -20,
-      "latest": 0.04,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "한푸 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "한푸 프로필",
+          "keyword": "부천시 나이",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "한푸 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "한푸 열애설",
+          "keyword": "부천시 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "한푸 논란",
+          "keyword": "부천시 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "한푸 사건",
+          "keyword": "부천시 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "한푸 반응",
+          "keyword": "부천시 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "한푸 정리",
+          "keyword": "부천시 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "한푸 이유",
+          "keyword": "부천시 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "한푸 뜻",
+          "keyword": "부천시 뜻",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
