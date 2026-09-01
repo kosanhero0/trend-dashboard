@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-09-01(화) 11:09 KST",
+  "generatedAt": "2026-09-01(화) 12:11 KST",
   "items": [
     {
-      "keyword": "육아휴직",
+      "keyword": "전환사채",
       "category": "연예",
       "catKey": "culture",
-      "reason": "“있으나 마나” 육아휴직 동료 지원금 집행률 6.6%",
+      "reason": "시선AI, 전환사채 10억 원 조기 상환...사채권자 풋옵션 행사",
       "series": [
-        39.96,
-        39.26,
-        40.13,
-        29.47,
-        11.83,
-        13.82,
-        36.55,
-        35.06,
-        32.71,
-        31.4,
-        26.63,
-        13.12,
-        13.02,
-        33.98
+        0.38,
+        0.58,
+        0.53,
+        0.39,
+        0.16,
+        0.1,
+        0.34,
+        0.46,
+        0.45,
+        0.53,
+        0.46,
+        0.13,
+        0.14,
+        0.34
       ],
       "dates": [
         "08/18",
@@ -38,102 +38,102 @@
         "08/30",
         "08/31"
       ],
-      "deltaPct": 161,
-      "latest": 33.98,
+      "deltaPct": 143,
+      "latest": 0.34,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "육아휴직 근황",
+          "keyword": "전환사채 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "육아휴직 프로필",
+          "keyword": "전환사채 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "육아휴직 나이",
+          "keyword": "전환사채 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "전환사채 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "전환사채 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "전환사채 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "전환사채 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "전환사채 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "전환사채 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "전환사채 뜻",
           "volume": "상",
           "trend": "상승",
           "competition": "중",
-          "reason": "검색 지수 67.14, 전일대비 +170%."
-        },
-        {
-          "keyword": "육아휴직 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "육아휴직 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "육아휴직 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "육아휴직 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "육아휴직 정리",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "육아휴직 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "육아휴직 뜻",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+          "reason": "검색 지수 25, 전일대비 +20%."
         }
       ]
     },
     {
-      "keyword": "항소이유서",
+      "keyword": "감염",
       "category": "연예",
       "catKey": "culture",
-      "reason": "[판결] “항소이유서 제출기간 지나도 연장 가능”… 헌재 재판소원 심리 중 대법원이 먼저 판단",
+      "reason": "서울성모병원, 개도국에 K-감염관리 노하우 전수",
       "series": [
-        1,
-        1.04,
-        0.93,
-        0.93,
+        0.27,
+        0.32,
+        0.28,
+        0.27,
+        0.16,
+        0.17,
+        0.48,
+        0.27,
+        0.32,
         0.3,
-        0.36,
-        0.74,
-        1.04,
-        0.98,
-        0.98,
-        0.76,
-        0.59,
-        0.38,
-        0.98
+        0.24,
+        0.16,
+        0.16,
+        0.33
       ],
       "dates": [
         "08/18",
@@ -151,79 +151,79 @@
         "08/30",
         "08/31"
       ],
-      "deltaPct": 158,
-      "latest": 0.98,
+      "deltaPct": 106,
+      "latest": 0.33,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "항소이유서 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "항소이유서 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "항소이유서 나이",
+          "keyword": "감염 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "항소이유서 열애설",
+          "keyword": "감염 프로필",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "감염 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "항소이유서 논란",
+          "keyword": "감염 열애설",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "항소이유서 사건",
+          "keyword": "감염 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "항소이유서 반응",
+          "keyword": "감염 사건",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "항소이유서 정리",
+          "keyword": "감염 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "항소이유서 이유",
+          "keyword": "감염 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "항소이유서 뜻",
+          "keyword": "감염 이유",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "감염 뜻",
+          "volume": "상",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 100, 전일대비 +100%."
         }
       ]
     },
@@ -241,12 +241,12 @@
         0,
         0,
         0,
-        0.03,
+        0.09,
         0,
-        0.06,
+        0.18,
         0,
         0,
-        0.06
+        0.19
       ],
       "dates": [
         "08/18",
@@ -265,7 +265,7 @@
         "08/31"
       ],
       "deltaPct": 100,
-      "latest": 0.06,
+      "latest": 0.19,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
@@ -341,25 +341,25 @@
       ]
     },
     {
-      "keyword": "제주서부경찰서",
-      "category": "정치",
-      "catKey": "politics",
-      "reason": "[속보]제주 경찰 &quot;실종 미종결시 할 일 많아 부담감에 허위 종결&quot;",
+      "keyword": "로베르토 모레노",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "‘엔리케 오른팔’ 모레노, 한국 축구 임시 사령탑 선임",
       "series": [
-        4.64,
-        8.25,
-        7.7,
-        7.34,
-        9.14,
-        22.98,
-        63.15,
-        100,
-        34.58,
-        14.84,
-        10.22,
-        4.79,
-        3.67,
-        7.19
+        24.83,
+        7.43,
+        3.09,
+        5.43,
+        1.75,
+        1.48,
+        1.6,
+        1.53,
+        1.37,
+        1.89,
+        1.64,
+        3.06,
+        0.88,
+        1.58
       ],
       "dates": [
         "08/18",
@@ -377,79 +377,192 @@
         "08/30",
         "08/31"
       ],
-      "deltaPct": 96,
-      "latest": 7.19,
+      "deltaPct": 80,
+      "latest": 1.58,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "제주서부경찰서 이유",
+          "keyword": "로베르토 모레노 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "제주서부경찰서 전망",
+          "keyword": "로베르토 모레노 프로필",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "하",
+          "reason": "검색 지수 1.72, 전일대비 +51%."
+        },
+        {
+          "keyword": "로베르토 모레노 나이",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "제주서부경찰서 정리",
+          "keyword": "로베르토 모레노 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "로베르토 모레노 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "로베르토 모레노 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "로베르토 모레노 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "로베르토 모레노 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "로베르토 모레노 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "로베르토 모레노 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "에너지",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "한화토탈, 지속가능경영보고서 발간…온실가스 9.8% 감축",
+      "series": [
+        0.88,
+        0.87,
+        0.79,
+        0.92,
+        0.64,
+        0.49,
+        0.89,
+        0.79,
+        0.96,
+        0.87,
+        0.99,
+        0.51,
+        0.47,
+        0.83
+      ],
+      "dates": [
+        "08/18",
+        "08/19",
+        "08/20",
+        "08/21",
+        "08/22",
+        "08/23",
+        "08/24",
+        "08/25",
+        "08/26",
+        "08/27",
+        "08/28",
+        "08/29",
+        "08/30",
+        "08/31"
+      ],
+      "deltaPct": 77,
+      "latest": 0.83,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "에너지 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "제주서부경찰서 논란",
+          "keyword": "에너지 프로필",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "에너지 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "제주서부경찰서 반응",
+          "keyword": "에너지 열애설",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "제주서부경찰서 배경",
+          "keyword": "에너지 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "제주서부경찰서 총정리",
+          "keyword": "에너지 사건",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "제주서부경찰서 입장",
+          "keyword": "에너지 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "제주서부경찰서 영향",
+          "keyword": "에너지 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "제주서부경찰서 뜻",
+          "keyword": "에너지 이유",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "에너지 뜻",
+          "volume": "상",
+          "trend": "하락",
+          "competition": "상",
+          "reason": "검색 지수 29.03, 전일대비 -10%."
         }
       ]
     },
@@ -459,20 +572,20 @@
       "catKey": "culture",
       "reason": "[속보] &apos;경산 中 유학생 살해&apos; 중국인 강사는 31세 정창성",
       "series": [
-        0.03,
-        0.02,
-        0.02,
-        0,
+        0.09,
         0.06,
-        0.02,
+        0.06,
         0,
-        0.03,
-        2.7,
-        5.01,
-        3.37,
-        2.17,
-        2.57,
-        3.75
+        0.17,
+        0.06,
+        0,
+        0.1,
+        8.05,
+        14.95,
+        10.04,
+        6.48,
+        7.66,
+        11.2
       ],
       "dates": [
         "08/18",
@@ -491,7 +604,7 @@
         "08/31"
       ],
       "deltaPct": 46,
-      "latest": 3.75,
+      "latest": 11.2,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
@@ -572,20 +685,20 @@
       "catKey": "culture",
       "reason": "韓, 안전 고려 美 주도 &apos;퍼시픽 뱅가드&apos; 훈련 불참…연합참모단 증파",
       "series": [
-        8.86,
-        17.77,
-        51.32,
-        3.56,
-        1.44,
-        1.29,
-        1.63,
-        1.82,
-        1.55,
-        1.31,
-        1.51,
-        1.29,
-        1.08,
-        1.23
+        5.37,
+        10.77,
+        31.13,
+        2.16,
+        0.87,
+        0.78,
+        0.99,
+        1.11,
+        0.94,
+        0.8,
+        0.91,
+        0.78,
+        0.66,
+        0.75
       ],
       "dates": [
         "08/18",
@@ -604,7 +717,7 @@
         "08/31"
       ],
       "deltaPct": 14,
-      "latest": 1.23,
+      "latest": 0.75,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
@@ -680,138 +793,25 @@
       ]
     },
     {
-      "keyword": "김봉곤",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "&apos;미코 진&apos; 우서윤 성형 논란 난리..&apos;김봉곤 딸&apos; 진소리 &quot;미스 춘향 당선&quot; [핫피플]",
-      "series": [
-        2.78,
-        3.2,
-        3.86,
-        2.95,
-        4.49,
-        5.47,
-        3.14,
-        2.23,
-        2.4,
-        2.29,
-        4.22,
-        4.3,
-        2.93,
-        2.9
-      ],
-      "dates": [
-        "08/18",
-        "08/19",
-        "08/20",
-        "08/21",
-        "08/22",
-        "08/23",
-        "08/24",
-        "08/25",
-        "08/26",
-        "08/27",
-        "08/28",
-        "08/29",
-        "08/30",
-        "08/31"
-      ],
-      "deltaPct": -1,
-      "latest": 2.9,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "김봉곤 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "김봉곤 프로필",
-          "volume": "하",
-          "trend": "하락",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 -100%."
-        },
-        {
-          "keyword": "김봉곤 나이",
-          "volume": "상",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 15.63, 전일대비 +100%."
-        },
-        {
-          "keyword": "김봉곤 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "김봉곤 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "김봉곤 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "김봉곤 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "김봉곤 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "김봉곤 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "김봉곤 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
       "keyword": "박경림",
       "category": "연예",
       "catKey": "culture",
-      "reason": "[이다원의 원픽] 박경림이 ‘1급수’ 힐링을 선물했다",
+      "reason": "[포토]포즈 취하는 서경덕 교수",
       "series": [
-        2.55,
-        2.84,
-        2.56,
-        2.4,
-        2.27,
-        2.36,
-        3.03,
-        3.05,
-        2.26,
-        2.25,
-        1.79,
-        1.8,
-        2.56,
-        2.13
+        7.6,
+        8.47,
+        7.62,
+        7.17,
+        6.78,
+        7.03,
+        9.04,
+        9.09,
+        6.75,
+        6.7,
+        5.35,
+        5.37,
+        7.64,
+        6.35
       ],
       "dates": [
         "08/18",
@@ -830,7 +830,7 @@
         "08/31"
       ],
       "deltaPct": -17,
-      "latest": 2.13,
+      "latest": 6.35,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
@@ -909,7 +909,7 @@
       "keyword": "버거킹",
       "category": "연예",
       "catKey": "culture",
-      "reason": "할인 행사 중인데…버거킹 찾은 할아버지에게 &quot;끝났다&quot; 거짓말한 직원",
+      "reason": "할인 행사 묻는 어르신에 &quot;그거 끝났어요&quot; 거짓 응대한 버거킹 직원 - 머니투데이",
       "series": [
         68.19,
         77.09,
@@ -1036,7 +1036,7 @@
         0,
         0,
         0,
-        0.03,
+        0.08,
         0
       ],
       "dates": [
