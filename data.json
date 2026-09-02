@@ -1,6 +1,119 @@
 {
-  "generatedAt": "2026-09-02(수) 17:11 KST",
+  "generatedAt": "2026-09-02(수) 18:10 KST",
   "items": [
+    {
+      "keyword": "배재고등학교",
+      "category": "교육",
+      "catKey": "edu",
+      "reason": "&apos;비하 응원&apos; 배재고 감독·선수 2명, 출전정지 1개월 징계",
+      "series": [
+        0.43,
+        0.38,
+        0.48,
+        0.34,
+        0.39,
+        0.51,
+        1.65,
+        1.38,
+        0.6,
+        0.57,
+        0.53,
+        0.44,
+        0.54,
+        1.2
+      ],
+      "dates": [
+        "08/19",
+        "08/20",
+        "08/21",
+        "08/22",
+        "08/23",
+        "08/24",
+        "08/25",
+        "08/26",
+        "08/27",
+        "08/28",
+        "08/29",
+        "08/30",
+        "08/31",
+        "09/01"
+      ],
+      "deltaPct": 122,
+      "latest": 1.2,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "배재고등학교 일정",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "배재고등학교 방법",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "배재고등학교 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "배재고등학교 전망",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "배재고등학교 준비",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "배재고등학교 총정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "배재고등학교 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "배재고등학교 팁",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "배재고등학교 후기",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "배재고등학교 결과",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
     {
       "keyword": "기초 연구",
       "category": "연예",
@@ -115,25 +228,25 @@
       ]
     },
     {
-      "keyword": "판문점",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "폭우에 떠밀려온 북한 병사…판문점 통해 돌아간 시신 [사진기자 이제원의 30년 된 외장하드]",
+      "keyword": "부산대학교",
+      "category": "교육",
+      "catKey": "edu",
+      "reason": "왜 탈락했나…‘서울대 10개’ 놓친 경북대, 평가기준 논란 속 대학간 격차 확대 우려",
       "series": [
-        0.32,
-        0.25,
-        0.24,
-        0.2,
-        0.37,
-        0.3,
-        0.3,
-        0.31,
-        0.29,
-        0.34,
-        0.41,
-        0.38,
-        0.32,
-        0.4
+        7.66,
+        7.42,
+        7.37,
+        4.59,
+        5.01,
+        10.41,
+        8.87,
+        7.65,
+        7.55,
+        7.28,
+        4.76,
+        4.98,
+        8.42,
+        10.69
       ],
       "dates": [
         "08/19",
@@ -151,78 +264,78 @@
         "08/31",
         "09/01"
       ],
-      "deltaPct": 25,
-      "latest": 0.4,
+      "deltaPct": 27,
+      "latest": 10.69,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "판문점 근황",
+          "keyword": "부산대학교 일정",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "판문점 프로필",
+          "keyword": "부산대학교 방법",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "판문점 나이",
+          "keyword": "부산대학교 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "판문점 열애설",
+          "keyword": "부산대학교 전망",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "판문점 논란",
+          "keyword": "부산대학교 준비",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "판문점 사건",
+          "keyword": "부산대학교 총정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "판문점 반응",
+          "keyword": "부산대학교 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "판문점 정리",
+          "keyword": "부산대학교 팁",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "판문점 이유",
+          "keyword": "부산대학교 후기",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "판문점 뜻",
+          "keyword": "부산대학교 결과",
           "volume": "하",
-          "trend": "유지",
-          "competition": "하",
+          "trend": "신규",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
@@ -454,25 +567,25 @@
       ]
     },
     {
-      "keyword": "박장범",
+      "keyword": "자산",
       "category": "연예",
       "catKey": "culture",
-      "reason": "&apos;KBS 새 사장 선임절차 중단 가처분&apos; 박장범의 침대축구 통할까",
+      "reason": "주식 등 해외금융계좌 신고액 3년만에 100조대…해외신탁 3.8조",
       "series": [
-        0.16,
-        0.16,
-        0.12,
-        0.11,
-        0.14,
-        0.18,
-        0.15,
-        0.18,
-        0.2,
-        0.16,
-        0.08,
-        0.18,
-        0.12,
-        0.12
+        2.04,
+        2.22,
+        1.38,
+        1.57,
+        1.38,
+        1.95,
+        1.95,
+        2.06,
+        1.78,
+        2.12,
+        1.36,
+        1.07,
+        2.1,
+        2.18
       ],
       "dates": [
         "08/19",
@@ -490,305 +603,79 @@
         "08/31",
         "09/01"
       ],
-      "deltaPct": 0,
-      "latest": 0.12,
+      "deltaPct": 4,
+      "latest": 2.18,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "박장범 근황",
+          "keyword": "자산 근황",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "박장범 프로필",
+          "keyword": "자산 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "자산 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "자산 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "자산 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "자산 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "자산 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "자산 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "자산 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "자산 뜻",
           "volume": "상",
           "trend": "상승",
-          "competition": "하",
-          "reason": "검색 지수 45.71, 전일대비 +167%."
-        },
-        {
-          "keyword": "박장범 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "박장범 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "박장범 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "박장범 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "박장범 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "박장범 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "박장범 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "박장범 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "예인선",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "부산 앞바다서 선원 8명 탄 예인선 전복‥2명 구조·6명 수색 중",
-      "series": [
-        0.09,
-        0.06,
-        0.06,
-        0.04,
-        0.04,
-        0.06,
-        0.07,
-        0.08,
-        0.04,
-        0.06,
-        0.03,
-        0.05,
-        0.04,
-        0.04
-      ],
-      "dates": [
-        "08/19",
-        "08/20",
-        "08/21",
-        "08/22",
-        "08/23",
-        "08/24",
-        "08/25",
-        "08/26",
-        "08/27",
-        "08/28",
-        "08/29",
-        "08/30",
-        "08/31",
-        "09/01"
-      ],
-      "deltaPct": 0,
-      "latest": 0.04,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "예인선 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "예인선 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "예인선 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "예인선 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "예인선 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "예인선 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "예인선 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "예인선 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "예인선 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "예인선 뜻",
-          "volume": "하",
-          "trend": "하락",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 -100%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "chatgpt",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "series": [
-        97.61,
-        99.18,
-        91.1,
-        55.98,
-        58.06,
-        99.24,
-        98.39,
-        97.21,
-        96.23,
-        90.79,
-        56.53,
-        58.11,
-        100,
-        99.41
-      ],
-      "dates": [
-        "08/19",
-        "08/20",
-        "08/21",
-        "08/22",
-        "08/23",
-        "08/24",
-        "08/25",
-        "08/26",
-        "08/27",
-        "08/28",
-        "08/29",
-        "08/30",
-        "08/31",
-        "09/01"
-      ],
-      "deltaPct": -1,
-      "latest": 99.41,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "chatgpt 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "chatgpt 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "chatgpt 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "chatgpt 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "chatgpt 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "chatgpt 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "chatgpt 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "chatgpt 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "chatgpt 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "chatgpt 뜻",
-          "volume": "상",
-          "trend": "상승",
-          "competition": "중",
-          "reason": "검색 지수 92.31, 전일대비 +100%."
+          "competition": "상",
+          "reason": "검색 지수 80.95, 전일대비 +13%."
         }
       ]
     },
@@ -798,20 +685,20 @@
       "catKey": "culture",
       "reason": "이호선, 오은영과 체중 비교 질문에 즉답…“내가 압도적으로 뚱뚱”",
       "series": [
-        1.94,
-        1.77,
-        1.66,
-        2.11,
-        1.95,
-        2.57,
-        1.94,
-        2.04,
-        1.58,
-        1.55,
-        1.41,
-        1.65,
-        3.1,
-        2.91
+        18.56,
+        16.94,
+        15.87,
+        20.24,
+        18.68,
+        24.6,
+        18.58,
+        19.52,
+        15.11,
+        14.88,
+        13.46,
+        15.76,
+        29.68,
+        27.86
       ],
       "dates": [
         "08/19",
@@ -830,7 +717,7 @@
         "09/01"
       ],
       "deltaPct": -6,
-      "latest": 2.91,
+      "latest": 27.86,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
@@ -906,25 +793,25 @@
       ]
     },
     {
-      "keyword": "이수미",
+      "keyword": "예인선",
       "category": "연예",
       "catKey": "culture",
-      "reason": "&apos;여고시절&apos; 故 이수미, 폐암으로 별세…투병 중 신곡 발매한 열정→어느덧 &apos;5주기&apos;",
+      "reason": "부산 앞바다서 선원 8명 탄 예인선 전복‥2명 구조·6명 수색 중",
       "series": [
-        0.38,
-        0.24,
-        0.33,
-        0.26,
-        0.27,
+        1.34,
+        0.97,
+        0.99,
+        0.65,
+        0.57,
+        0.94,
+        1.07,
+        1.2,
+        0.69,
+        0.86,
+        0.53,
+        0.73,
         0.67,
-        0.27,
-        0.24,
-        0.25,
-        0.35,
-        0.51,
-        0.3,
-        0.33,
-        0.31
+        0.63
       ],
       "dates": [
         "08/19",
@@ -943,7 +830,120 @@
         "09/01"
       ],
       "deltaPct": -6,
-      "latest": 0.31,
+      "latest": 0.63,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "예인선 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "예인선 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "예인선 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "예인선 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "예인선 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "예인선 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "예인선 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "예인선 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "예인선 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "예인선 뜻",
+          "volume": "하",
+          "trend": "하락",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 -100%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "이수미",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "&apos;여고시절&apos; 故이수미, 오늘(2일) 5주기…폐암으로 69세 영면",
+      "series": [
+        3.65,
+        2.27,
+        3.13,
+        2.5,
+        2.62,
+        6.46,
+        2.62,
+        2.27,
+        2.37,
+        3.32,
+        4.89,
+        2.85,
+        3.19,
+        2.98
+      ],
+      "dates": [
+        "08/19",
+        "08/20",
+        "08/21",
+        "08/22",
+        "08/23",
+        "08/24",
+        "08/25",
+        "08/26",
+        "08/27",
+        "08/28",
+        "08/29",
+        "08/30",
+        "08/31",
+        "09/01"
+      ],
+      "deltaPct": -7,
+      "latest": 2.98,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
@@ -1022,22 +1022,22 @@
       "keyword": "자동차",
       "category": "연예",
       "catKey": "culture",
-      "reason": "한성자동차, &apos;반얀트리 서울&apos;과 협업…하이엔드 고객 접점 확대",
+      "reason": "은평구, 8일 추석맞이 자동차 무상점검 서비스",
       "series": [
-        6.07,
-        6.42,
-        6.05,
-        5.79,
-        5.43,
-        6.02,
-        5.75,
-        5.29,
-        5.39,
-        5.11,
-        4.81,
-        4.73,
-        5.56,
-        5.13
+        94.67,
+        100,
+        94.29,
+        90.24,
+        84.66,
+        93.91,
+        89.57,
+        82.51,
+        84.03,
+        79.7,
+        75,
+        73.66,
+        86.69,
+        80.02
       ],
       "dates": [
         "08/19",
@@ -1056,7 +1056,7 @@
         "09/01"
       ],
       "deltaPct": -8,
-      "latest": 5.13,
+      "latest": 80.02,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
