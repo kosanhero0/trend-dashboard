@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-09-02(수) 10:10 KST",
+  "generatedAt": "2026-09-02(수) 11:15 KST",
   "items": [
     {
-      "keyword": "이영택",
+      "keyword": "엔소 페르난데스",
       "category": "연예",
       "catKey": "culture",
-      "reason": "실바가 타국 러브콜 뿌리친 이유 &quot;딸 시아나, 그리고 배구 가족&quot;",
+      "reason": "마감일날 끝내 &apos;역대급 배신자&apos; 탄생! 엔소, 이적 요구→야유→2G 연속 제외 끝 맨시티행…2323억 합의",
       "series": [
-        0.08,
-        0.05,
-        0.09,
-        0.06,
-        0.07,
-        0.05,
-        0.05,
-        0.11,
-        0.1,
-        0.14,
-        0.13,
-        0.16,
-        0.05,
-        0.17
+        0.37,
+        0.27,
+        0.26,
+        0.25,
+        0.21,
+        0.31,
+        1.42,
+        1.48,
+        0.95,
+        1.17,
+        0.97,
+        1.4,
+        1.21,
+        1.94
       ],
       "dates": [
         "08/19",
@@ -38,215 +38,215 @@
         "08/31",
         "09/01"
       ],
-      "deltaPct": 240,
-      "latest": 0.17,
+      "deltaPct": 60,
+      "latest": 1.94,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "이영택 근황",
+          "keyword": "엔소 페르난데스 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "이영택 프로필",
+          "keyword": "엔소 페르난데스 프로필",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "하",
+          "reason": "검색 지수 61.11, 전일대비 +267%."
+        },
+        {
+          "keyword": "엔소 페르난데스 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "엔소 페르난데스 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "엔소 페르난데스 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "엔소 페르난데스 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "엔소 페르난데스 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "엔소 페르난데스 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "엔소 페르난데스 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "엔소 페르난데스 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "외환위기",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "[하현옥의 세계경제전망] 미국, 장기국채 금리 상승 막으려다 달러 약세 맞는다",
+      "series": [
+        0.68,
+        0.89,
+        0.31,
+        0.68,
+        0.63,
+        1,
+        0.68,
+        0.79,
+        0.73,
+        0.63,
+        0.58,
+        0.42,
+        0.68,
+        1
+      ],
+      "dates": [
+        "08/19",
+        "08/20",
+        "08/21",
+        "08/22",
+        "08/23",
+        "08/24",
+        "08/25",
+        "08/26",
+        "08/27",
+        "08/28",
+        "08/29",
+        "08/30",
+        "08/31",
+        "09/01"
+      ],
+      "deltaPct": 47,
+      "latest": 1,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "외환위기 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "외환위기 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "외환위기 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "외환위기 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "외환위기 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "외환위기 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "외환위기 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "외환위기 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "외환위기 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "외환위기 뜻",
           "volume": "하",
           "trend": "유지",
           "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "이영택 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "이영택 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "이영택 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "이영택 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "이영택 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "이영택 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "이영택 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "이영택 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
     },
     {
-      "keyword": "9월 모의고사",
-      "category": "교육",
-      "catKey": "edu",
-      "reason": "2027학년도 대학수학능력 9월 모의평가",
-      "series": [
-        21.05,
-        19.86,
-        17.56,
-        15.74,
-        19.04,
-        28.31,
-        29.19,
-        28,
-        26.46,
-        24.05,
-        24.47,
-        36.97,
-        57.59,
-        100
-      ],
-      "dates": [
-        "08/19",
-        "08/20",
-        "08/21",
-        "08/22",
-        "08/23",
-        "08/24",
-        "08/25",
-        "08/26",
-        "08/27",
-        "08/28",
-        "08/29",
-        "08/30",
-        "08/31",
-        "09/01"
-      ],
-      "deltaPct": 74,
-      "latest": 100,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "9월 모의고사 일정",
-          "volume": "상",
-          "trend": "상승",
-          "competition": "상",
-          "reason": "검색 지수 100, 전일대비 +26%."
-        },
-        {
-          "keyword": "9월 모의고사 방법",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "9월 모의고사 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "9월 모의고사 전망",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "9월 모의고사 준비",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "9월 모의고사 총정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "9월 모의고사 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "9월 모의고사 팁",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "9월 모의고사 후기",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "9월 모의고사 결과",
-          "volume": "상",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 100, 전일대비 +100%."
-        }
-      ]
-    },
-    {
-      "keyword": "매일경제신문",
+      "keyword": "수도권 광역급행철도",
       "category": "연예",
       "catKey": "culture",
-      "reason": "&apos;821조&apos; 초슈퍼예산… 미래기금엔 &apos;162조&apos; - 머니투데이",
+      "reason": "최규진 경기도의원 “GTX-A, 멈춘 경기도민과의 약속... 경기도가 책임 다해야”",
       "series": [
-        2.79,
-        3,
+        2.05,
+        2.73,
+        2.62,
+        1.73,
+        2.05,
+        2.68,
         2.52,
-        1.82,
-        1.69,
-        2.84,
-        2.71,
-        3.01,
-        2.79,
-        2.67,
-        1.76,
+        2.36,
+        2.73,
+        2.47,
         1.68,
-        2.87,
-        2.94
+        2.26,
+        2.36,
+        2.78
       ],
       "dates": [
         "08/19",
@@ -264,75 +264,75 @@
         "08/31",
         "09/01"
       ],
-      "deltaPct": 2,
-      "latest": 2.94,
+      "deltaPct": 18,
+      "latest": 2.78,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "매일경제신문 근황",
+          "keyword": "수도권 광역급행철도 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "매일경제신문 프로필",
+          "keyword": "수도권 광역급행철도 프로필",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "매일경제신문 나이",
+          "keyword": "수도권 광역급행철도 나이",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "매일경제신문 열애설",
+          "keyword": "수도권 광역급행철도 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "매일경제신문 논란",
+          "keyword": "수도권 광역급행철도 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "매일경제신문 사건",
+          "keyword": "수도권 광역급행철도 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "매일경제신문 반응",
+          "keyword": "수도권 광역급행철도 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "매일경제신문 정리",
+          "keyword": "수도권 광역급행철도 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "매일경제신문 이유",
+          "keyword": "수도권 광역급행철도 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "매일경제신문 뜻",
+          "keyword": "수도권 광역급행철도 뜻",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
@@ -341,25 +341,25 @@
       ]
     },
     {
-      "keyword": "매일경제",
+      "keyword": "육아휴직",
       "category": "연예",
       "catKey": "culture",
-      "reason": "월급 146만원 직장인, 6년만 22억 모았다…&quot;부동산+&apos;이것&apos; 투자&quot;",
+      "reason": "“있으나 마나” 육아휴직 동료 지원금 집행률 6.6%",
       "series": [
-        13.6,
-        13.12,
-        12.71,
-        8.29,
-        8.01,
-        14.09,
-        13.93,
-        13.91,
-        13.92,
-        13.25,
-        8.29,
-        8.12,
-        14.4,
-        14.48
+        97.22,
+        99.37,
+        72.97,
+        29.29,
+        34.23,
+        90.5,
+        86.82,
+        81,
+        77.74,
+        65.93,
+        32.49,
+        32.23,
+        84.15,
+        97.17
       ],
       "dates": [
         "08/19",
@@ -377,78 +377,191 @@
         "08/31",
         "09/01"
       ],
-      "deltaPct": 1,
-      "latest": 14.48,
+      "deltaPct": 15,
+      "latest": 97.17,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "매일경제 근황",
+          "keyword": "육아휴직 근황",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "매일경제 프로필",
+          "keyword": "육아휴직 프로필",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "매일경제 나이",
+          "keyword": "육아휴직 나이",
+          "volume": "상",
+          "trend": "유지",
+          "competition": "중",
+          "reason": "검색 지수 70.42, 전일대비 +5%."
+        },
+        {
+          "keyword": "육아휴직 열애설",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "육아휴직 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "육아휴직 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "육아휴직 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "육아휴직 정리",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "육아휴직 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "육아휴직 뜻",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "서희제",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "&quot;이르지만, 용기냈다&quot;…&apos;구준엽 처제&apos; 서희제, 故 서희원 아픔 딛고 복귀 [MHN:글로벌]",
+      "series": [
+        0.58,
+        0.42,
+        0.37,
+        0.68,
+        0.89,
+        0.31,
+        0.79,
+        0.68,
+        0.37,
+        0.68,
+        0.52,
+        1.57,
+        1.21,
+        1.31
+      ],
+      "dates": [
+        "08/19",
+        "08/20",
+        "08/21",
+        "08/22",
+        "08/23",
+        "08/24",
+        "08/25",
+        "08/26",
+        "08/27",
+        "08/28",
+        "08/29",
+        "08/30",
+        "08/31",
+        "09/01"
+      ],
+      "deltaPct": 8,
+      "latest": 1.31,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "서희제 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "매일경제 열애설",
+          "keyword": "서희제 프로필",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "서희제 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "서희제 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "매일경제 논란",
+          "keyword": "서희제 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "매일경제 사건",
+          "keyword": "서희제 사건",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "매일경제 반응",
+          "keyword": "서희제 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "매일경제 정리",
+          "keyword": "서희제 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "매일경제 이유",
+          "keyword": "서희제 이유",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "매일경제 뜻",
+          "keyword": "서희제 뜻",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
@@ -457,7 +570,7 @@
       "keyword": "리센느",
       "category": "연예",
       "catKey": "culture",
-      "reason": "1위 리센느, 2위 코르티스, 3위 키키",
+      "reason": "카카오, &apos;리센느&apos;와 일상 속 AI 경험 알린다",
       "series": [
         36.42,
         32.72,
@@ -570,7 +683,7 @@
       "keyword": "카를로스 카라스코",
       "category": "연예",
       "catKey": "culture",
-      "reason": "Google 실시간 트렌드 상위 키워드 (트래픽 200+).",
+      "reason": "&quot;카라스코가 LG에 간다고? 진짜 거물인데&quot; 레전드 외인들도 깜짝 놀랐다…ML 112승 경력을 누가 이길수 있나",
       "series": [
         0.15,
         0.36,
@@ -796,7 +909,7 @@
       "keyword": "대한민국 의 경찰청장",
       "category": "정치",
       "catKey": "politics",
-      "reason": "[속보]한밤중…전국 경찰청장 18명中 14명 교체",
+      "reason": "김종철 신임 경찰청장대행 &quot;국민불신 임계점 넘어…재설계 필요&quot;(종합)",
       "series": [
         0,
         0,
@@ -906,123 +1019,10 @@
       ]
     },
     {
-      "keyword": "윤이나",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "윤이나, 미국 여자 스크린골프 리그 합류… 한국 선수 중 유일",
-      "series": [
-        2.71,
-        3.36,
-        4.41,
-        2.86,
-        3.65,
-        3.04,
-        1.85,
-        1.82,
-        2.12,
-        2.9,
-        3.38,
-        3.46,
-        3.09,
-        2.27
-      ],
-      "dates": [
-        "08/19",
-        "08/20",
-        "08/21",
-        "08/22",
-        "08/23",
-        "08/24",
-        "08/25",
-        "08/26",
-        "08/27",
-        "08/28",
-        "08/29",
-        "08/30",
-        "08/31",
-        "09/01"
-      ],
-      "deltaPct": -27,
-      "latest": 2.27,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "윤이나 근황",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "윤이나 프로필",
-          "volume": "상",
-          "trend": "상승",
-          "competition": "하",
-          "reason": "검색 지수 30.43, 전일대비 +50%."
-        },
-        {
-          "keyword": "윤이나 나이",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "윤이나 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "윤이나 논란",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "윤이나 사건",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "윤이나 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "윤이나 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "윤이나 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "윤이나 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
       "keyword": "지예은",
       "category": "연예",
       "catKey": "culture",
-      "reason": "지예은♥바타, 12월 깜짝 결혼…이혜영 &quot;축의금 100만원&quot; 약속 3일 만에 현실로 [종합]",
+      "reason": "배우 지예은·댄서 바타, 12월 12일 결혼…“인생 함께하기로”",
       "series": [
         2.01,
         1.97,
