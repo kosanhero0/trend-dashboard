@@ -1,237 +1,11 @@
 {
-  "generatedAt": "2026-09-03(목) 10:09 KST",
+  "generatedAt": "2026-09-03(목) 11:14 KST",
   "items": [
-    {
-      "keyword": "빙하 붕괴",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "&quot;네팔이 대신 대가 치렀다&quot;‥&quot;기후변화 피해 배상하라&quot;",
-      "series": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        89.35,
-        24.13,
-        7.38,
-        5.27,
-        6.32,
-        3.55,
-        50.47
-      ],
-      "dates": [
-        "08/20",
-        "08/21",
-        "08/22",
-        "08/23",
-        "08/24",
-        "08/25",
-        "08/26",
-        "08/27",
-        "08/28",
-        "08/29",
-        "08/30",
-        "08/31",
-        "09/01",
-        "09/02"
-      ],
-      "deltaPct": 1322,
-      "latest": 50.47,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "빙하 붕괴 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "빙하 붕괴 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "빙하 붕괴 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "빙하 붕괴 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "빙하 붕괴 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "빙하 붕괴 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "빙하 붕괴 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "빙하 붕괴 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "빙하 붕괴 이유",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "빙하 붕괴 뜻",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "사우 델",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "18호 태풍 ‘사우델’ 부활…중국 남부 강타",
-      "series": [
-        26.2,
-        27.38,
-        18.78,
-        17.25,
-        22.62,
-        15.74,
-        8.59,
-        6.07,
-        4.49,
-        1.74,
-        0.92,
-        0.81,
-        2.18,
-        4.65
-      ],
-      "dates": [
-        "08/20",
-        "08/21",
-        "08/22",
-        "08/23",
-        "08/24",
-        "08/25",
-        "08/26",
-        "08/27",
-        "08/28",
-        "08/29",
-        "08/30",
-        "08/31",
-        "09/01",
-        "09/02"
-      ],
-      "deltaPct": 113,
-      "latest": 4.65,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "사우 델 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "사우 델 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "사우 델 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "사우 델 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "사우 델 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "사우 델 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "사우 델 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "사우 델 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "사우 델 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "사우 델 뜻",
-          "volume": "상",
-          "trend": "상승",
-          "competition": "하",
-          "reason": "검색 지수 9.17, 전일대비 +67%."
-        }
-      ]
-    },
     {
       "keyword": "왕 즈이",
       "category": "연예",
       "catKey": "culture",
-      "reason": "‘안세영 한판 붙자!’ 중국의 마지막 자존심 왕즈이, 38분 만에 2-0 셧아웃 승리...16강 진출",
+      "reason": "&quot;세계 17위가 단 3점 밖에 못 내다니&quot; 안세영 압도적인 경기력... &apos;외신도 찬사&apos; 중국 마스터스 16강 진출",
       "series": [
         14.09,
         35.66,
@@ -341,251 +115,25 @@
       ]
     },
     {
-      "keyword": "외환시장",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "한은, 외환보유액 순위 25년 만에 돌연 비공개로 돌려···8월 증가폭 ‘역대 최대’",
-      "series": [
-        1.33,
-        0,
-        0.33,
-        0,
-        1,
-        0.39,
-        0.67,
-        0,
-        0.55,
-        0.28,
-        0.28,
-        0.33,
-        0.28,
-        0.39
-      ],
-      "dates": [
-        "08/20",
-        "08/21",
-        "08/22",
-        "08/23",
-        "08/24",
-        "08/25",
-        "08/26",
-        "08/27",
-        "08/28",
-        "08/29",
-        "08/30",
-        "08/31",
-        "09/01",
-        "09/02"
-      ],
-      "deltaPct": 39,
-      "latest": 0.39,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "외환시장 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "외환시장 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "외환시장 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "외환시장 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "외환시장 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "외환시장 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "외환시장 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "외환시장 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "외환시장 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "외환시장 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "남보라",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "남보라 아들, 생후 3개월만 첫 은행 업무..도장 꽉 쥔 &apos;고사리 손&apos; 귀여워",
-      "series": [
-        21.3,
-        10.67,
-        14.83,
-        6.81,
-        3.1,
-        2.44,
-        2.35,
-        4.49,
-        5.77,
-        6.63,
-        2.3,
-        1.95,
-        2.89,
-        3.55
-      ],
-      "dates": [
-        "08/20",
-        "08/21",
-        "08/22",
-        "08/23",
-        "08/24",
-        "08/25",
-        "08/26",
-        "08/27",
-        "08/28",
-        "08/29",
-        "08/30",
-        "08/31",
-        "09/01",
-        "09/02"
-      ],
-      "deltaPct": 23,
-      "latest": 3.55,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "남보라 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "남보라 프로필",
-          "volume": "상",
-          "trend": "하락",
-          "competition": "하",
-          "reason": "검색 지수 6.03, 전일대비 -34%."
-        },
-        {
-          "keyword": "남보라 나이",
-          "volume": "상",
-          "trend": "하락",
-          "competition": "하",
-          "reason": "검색 지수 3.17, 전일대비 -40%."
-        },
-        {
-          "keyword": "남보라 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "남보라 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "남보라 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "남보라 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "남보라 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "남보라 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "남보라 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "중앙일보 오늘의 운세",
+      "keyword": "ytn 오늘 의 띠별 운세",
       "category": "연예",
       "catKey": "culture",
       "reason": "[오늘의 운세] 2026년 09월 03일 띠별 운세",
       "series": [
-        0.54,
-        0.6,
-        0.61,
-        0.39,
-        0.51,
-        0.54,
-        0.5,
-        0.52,
-        0.53,
-        0.57,
-        0.38,
-        0.53,
-        0.51,
-        0.51
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "dates": [
         "08/20",
@@ -604,74 +152,187 @@
         "09/02"
       ],
       "deltaPct": 0,
-      "latest": 0.51,
+      "latest": 0,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "중앙일보 오늘의 운세 근황",
+          "keyword": "ytn 오늘 의 띠별 운세 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "중앙일보 오늘의 운세 프로필",
+          "keyword": "ytn 오늘 의 띠별 운세 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "중앙일보 오늘의 운세 나이",
+          "keyword": "ytn 오늘 의 띠별 운세 나이",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "중앙일보 오늘의 운세 열애설",
+          "keyword": "ytn 오늘 의 띠별 운세 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "중앙일보 오늘의 운세 논란",
+          "keyword": "ytn 오늘 의 띠별 운세 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "중앙일보 오늘의 운세 사건",
+          "keyword": "ytn 오늘 의 띠별 운세 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "중앙일보 오늘의 운세 반응",
+          "keyword": "ytn 오늘 의 띠별 운세 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "중앙일보 오늘의 운세 정리",
+          "keyword": "ytn 오늘 의 띠별 운세 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "중앙일보 오늘의 운세 이유",
+          "keyword": "ytn 오늘 의 띠별 운세 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "중앙일보 오늘의 운세 뜻",
+          "keyword": "ytn 오늘 의 띠별 운세 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "브루어스 대 컵스",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "MLB 컵스, 밀워키전 9홈런 폭발…역대 한 경기 최다 공동 2위",
+      "series": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dates": [
+        "08/20",
+        "08/21",
+        "08/22",
+        "08/23",
+        "08/24",
+        "08/25",
+        "08/26",
+        "08/27",
+        "08/28",
+        "08/29",
+        "08/30",
+        "08/31",
+        "09/01",
+        "09/02"
+      ],
+      "deltaPct": 0,
+      "latest": 0,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "브루어스 대 컵스 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "브루어스 대 컵스 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "브루어스 대 컵스 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "브루어스 대 컵스 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "브루어스 대 컵스 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "브루어스 대 컵스 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "브루어스 대 컵스 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "브루어스 대 컵스 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "브루어스 대 컵스 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "브루어스 대 컵스 뜻",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
@@ -683,7 +344,7 @@
       "keyword": "대한민국 독립유공자",
       "category": "연예",
       "catKey": "culture",
-      "reason": "Google 실시간 트렌드 상위 키워드 (트래픽 200+).",
+      "reason": "Google 실시간 트렌드 상위 키워드 (트래픽 500+).",
       "series": [
         0,
         0,
@@ -793,25 +454,25 @@
       ]
     },
     {
-      "keyword": "코레일",
+      "keyword": "매일신문",
       "category": "연예",
       "catKey": "culture",
-      "reason": "코레일 &quot;SPC 독립 권리주체 아냐&quot;…과거엔 &apos;사업추진 주체&apos; 명시",
+      "reason": "구상에서 비구상으로 흐른 `풍경의 궤적`… 서양화가 강준 초대전 봉화서 열려",
       "series": [
-        61.21,
-        57.82,
-        33.51,
-        32.25,
-        66.05,
-        61.79,
-        58.52,
-        60.28,
-        63.38,
-        47.36,
-        51.13,
-        82.15,
-        100,
-        91.59
+        9.35,
+        8.8,
+        6.11,
+        5.26,
+        9.61,
+        9.15,
+        9.82,
+        9.58,
+        8.89,
+        5.93,
+        5.62,
+        10.27,
+        9.97,
+        9.78
       ],
       "dates": [
         "08/20",
@@ -829,215 +490,215 @@
         "09/01",
         "09/02"
       ],
-      "deltaPct": -8,
-      "latest": 91.59,
+      "deltaPct": -2,
+      "latest": 9.78,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "코레일 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "코레일 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "코레일 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "코레일 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "코레일 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "코레일 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "코레일 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "코레일 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "코레일 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "코레일 뜻",
-          "volume": "상",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 100, 전일대비 +100%."
-        }
-      ]
-    },
-    {
-      "keyword": "내야수",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "‘드디어 부활?’ 김하성, 첫 장타+볼넷 ‘2G 연속 멀티출루’→‘팀 대승’",
-      "series": [
-        1,
-        0.67,
-        0.83,
-        0.83,
-        0.55,
-        0.83,
-        1.05,
-        1,
-        0.89,
-        2.11,
-        1.77,
-        0.55,
-        1.16,
-        1.05
-      ],
-      "dates": [
-        "08/20",
-        "08/21",
-        "08/22",
-        "08/23",
-        "08/24",
-        "08/25",
-        "08/26",
-        "08/27",
-        "08/28",
-        "08/29",
-        "08/30",
-        "08/31",
-        "09/01",
-        "09/02"
-      ],
-      "deltaPct": -9,
-      "latest": 1.05,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "내야수 근황",
+          "keyword": "매일신문 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "내야수 프로필",
+          "keyword": "매일신문 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "내야수 나이",
+          "keyword": "매일신문 나이",
           "volume": "하",
           "trend": "신규",
           "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "내야수 열애설",
+          "keyword": "매일신문 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "내야수 논란",
+          "keyword": "매일신문 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "내야수 사건",
+          "keyword": "매일신문 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "내야수 반응",
+          "keyword": "매일신문 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "내야수 정리",
+          "keyword": "매일신문 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "내야수 이유",
+          "keyword": "매일신문 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "내야수 뜻",
+          "keyword": "매일신문 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "k패스",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "대중교통 소득공제 없어진다…내년부터 K-패스 환급으로 전환",
+      "series": [
+        77.67,
+        71.54,
+        38.6,
+        41.04,
+        63.49,
+        64.69,
+        62.47,
+        63.96,
+        54.38,
+        41.17,
+        51.24,
+        89.99,
+        100,
+        85.77
+      ],
+      "dates": [
+        "08/20",
+        "08/21",
+        "08/22",
+        "08/23",
+        "08/24",
+        "08/25",
+        "08/26",
+        "08/27",
+        "08/28",
+        "08/29",
+        "08/30",
+        "08/31",
+        "09/01",
+        "09/02"
+      ],
+      "deltaPct": -14,
+      "latest": 85.77,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "k패스 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "k패스 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "k패스 나이",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "중",
+          "reason": "검색 지수 100, 전일대비 +45%."
+        },
+        {
+          "keyword": "k패스 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "k패스 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "k패스 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "k패스 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "k패스 정리",
           "volume": "하",
           "trend": "유지",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "k패스 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "k패스 뜻",
+          "volume": "상",
+          "trend": "하락",
+          "competition": "중",
+          "reason": "검색 지수 50, 전일대비 -25%."
         }
       ]
     },
     {
-      "keyword": "정책",
+      "keyword": "강풍",
       "category": "연예",
       "catKey": "culture",
-      "reason": "국힘 &quot;李정부 청년정책은 &apos;먹고 떨어져&apos;식…청년과 함께 싸울것&quot;",
+      "reason": "경북도 &quot;지난달 31일 강풍·우박으로 농작물 128ha 피해&quot;",
       "series": [
-        0.39,
-        0.31,
-        0.13,
-        0.21,
-        0.27,
+        0.1,
+        0.08,
         0.3,
-        0.35,
-        0.32,
-        0.31,
-        0.2,
-        0.26,
-        0.31,
-        0.45,
-        0.37
+        0.1,
+        0.05,
+        0.1,
+        0.1,
+        0.06,
+        0.1,
+        0.04,
+        0.1,
+        0.07,
+        0.13,
+        0.11
       ],
       "dates": [
         "08/20",
@@ -1055,79 +716,418 @@
         "09/01",
         "09/02"
       ],
-      "deltaPct": -18,
-      "latest": 0.37,
+      "deltaPct": -15,
+      "latest": 0.11,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "정책 근황",
+          "keyword": "강풍 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "강풍 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "강풍 나이",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "정책 프로필",
+          "keyword": "강풍 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "강풍 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "강풍 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "강풍 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "강풍 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "강풍 이유",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "강풍 뜻",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "충청남도",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "당진시, 충남도민체전 성공 개최와 추석맞이 국토대청결운동 전개 - 보도자료 | 기사",
+      "series": [
+        3.67,
+        3.63,
+        1.89,
+        1.83,
+        3.89,
+        4.09,
+        4.68,
+        8.06,
+        3.87,
+        2.04,
+        2.27,
+        4.06,
+        4.36,
+        3.64
+      ],
+      "dates": [
+        "08/20",
+        "08/21",
+        "08/22",
+        "08/23",
+        "08/24",
+        "08/25",
+        "08/26",
+        "08/27",
+        "08/28",
+        "08/29",
+        "08/30",
+        "08/31",
+        "09/01",
+        "09/02"
+      ],
+      "deltaPct": -17,
+      "latest": 3.64,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "충청남도 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "충청남도 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "충청남도 나이",
           "volume": "하",
           "trend": "신규",
           "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "정책 나이",
+          "keyword": "충청남도 열애설",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "정책 열애설",
+          "keyword": "충청남도 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "정책 논란",
+          "keyword": "충청남도 사건",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "정책 사건",
+          "keyword": "충청남도 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "정책 반응",
+          "keyword": "충청남도 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "정책 정리",
+          "keyword": "충청남도 이유",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "정책 이유",
+          "keyword": "충청남도 뜻",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "권은비",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "권은비 &quot;서머퀸도 좋지만 똑같은 건 재미없어…음악 인정받고파&quot;",
+      "series": [
+        6.01,
+        8.81,
+        8.26,
+        10.24,
+        8.73,
+        8.19,
+        6.47,
+        6.53,
+        6.91,
+        9.95,
+        30.64,
+        19.52,
+        16.81,
+        11.03
+      ],
+      "dates": [
+        "08/20",
+        "08/21",
+        "08/22",
+        "08/23",
+        "08/24",
+        "08/25",
+        "08/26",
+        "08/27",
+        "08/28",
+        "08/29",
+        "08/30",
+        "08/31",
+        "09/01",
+        "09/02"
+      ],
+      "deltaPct": -34,
+      "latest": 11.03,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "권은비 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "정책 뜻",
+          "keyword": "권은비 프로필",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "권은비 나이",
           "volume": "상",
           "trend": "하락",
-          "competition": "상",
-          "reason": "검색 지수 67.01, 전일대비 -33%."
+          "competition": "하",
+          "reason": "검색 지수 30.65, 전일대비 -21%."
+        },
+        {
+          "keyword": "권은비 열애설",
+          "volume": "하",
+          "trend": "하락",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 -100%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "권은비 논란",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "권은비 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "권은비 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "권은비 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "권은비 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "권은비 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "카를로스 알카라스",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "스물셋에 상금만 890억…최연소 1위 찍고도 파티 즐기는 Z세대 챔피언",
+      "series": [
+        2.72,
+        4.66,
+        2.72,
+        3.66,
+        4.38,
+        6.27,
+        5.88,
+        4.83,
+        5.05,
+        3.22,
+        4.55,
+        12.09,
+        23.74,
+        7.38
+      ],
+      "dates": [
+        "08/20",
+        "08/21",
+        "08/22",
+        "08/23",
+        "08/24",
+        "08/25",
+        "08/26",
+        "08/27",
+        "08/28",
+        "08/29",
+        "08/30",
+        "08/31",
+        "09/01",
+        "09/02"
+      ],
+      "deltaPct": -69,
+      "latest": 7.38,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "카를로스 알카라스 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "카를로스 알카라스 프로필",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "카를로스 알카라스 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "카를로스 알카라스 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "카를로스 알카라스 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "카를로스 알카라스 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "카를로스 알카라스 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "카를로스 알카라스 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "카를로스 알카라스 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "카를로스 알카라스 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
     }
