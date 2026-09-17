@@ -1,139 +1,26 @@
 {
-  "generatedAt": "2026-09-17(목) 12:30 KST",
+  "generatedAt": "2026-09-17(목) 18:13 KST",
   "items": [
     {
-      "keyword": "신원식",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "&apos;계엄 정당화 메시지&apos; 신원식 前안보실장 측 &quot;尹 지시 안 받아&quot;",
+      "keyword": "거점국립대학교",
+      "category": "교육",
+      "catKey": "edu",
+      "reason": "거점 국립대 지원, 사립대도 국립대도 ‘반발’",
       "series": [
-        2.35,
-        1.53,
-        0.9,
-        0.94,
-        1.12,
-        1.11,
-        1.62,
-        2.01,
-        2.02,
-        1.2,
-        1.03,
-        1.11,
-        1.09,
-        2.85
-      ],
-      "dates": [
-        "09/03",
-        "09/04",
-        "09/05",
-        "09/06",
-        "09/07",
-        "09/08",
-        "09/09",
-        "09/10",
-        "09/11",
-        "09/12",
-        "09/13",
-        "09/14",
-        "09/15",
-        "09/16"
-      ],
-      "deltaPct": 161,
-      "latest": 2.85,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "신원식 근황",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "신원식 프로필",
-          "volume": "상",
-          "trend": "상승",
-          "competition": "하",
-          "reason": "검색 지수 100, 전일대비 +247%."
-        },
-        {
-          "keyword": "신원식 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "신원식 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "신원식 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "신원식 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "신원식 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "신원식 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "신원식 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "신원식 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "fifa u 20 여자 월드컵",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "범예주 극적 결승골…한국 여자축구, 12년 만에 U-20 월드컵 8강",
-      "series": [
+        0.29,
         0,
         0,
         0,
-        0.07,
-        0.09,
-        0,
-        0.13,
         0,
         0,
         0,
-        0.17,
         0,
         0,
-        0.07
+        0.29,
+        0,
+        0,
+        0,
+        0.24
       ],
       "dates": [
         "09/03",
@@ -152,101 +39,101 @@
         "09/16"
       ],
       "deltaPct": 100,
-      "latest": 0.07,
+      "latest": 0.24,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "fifa u 20 여자 월드컵 근황",
+          "keyword": "거점국립대학교 일정",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "fifa u 20 여자 월드컵 프로필",
+          "keyword": "거점국립대학교 방법",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "fifa u 20 여자 월드컵 나이",
+          "keyword": "거점국립대학교 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "fifa u 20 여자 월드컵 열애설",
+          "keyword": "거점국립대학교 전망",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "fifa u 20 여자 월드컵 논란",
+          "keyword": "거점국립대학교 준비",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "fifa u 20 여자 월드컵 사건",
+          "keyword": "거점국립대학교 총정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "fifa u 20 여자 월드컵 반응",
+          "keyword": "거점국립대학교 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "fifa u 20 여자 월드컵 정리",
+          "keyword": "거점국립대학교 팁",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "fifa u 20 여자 월드컵 이유",
+          "keyword": "거점국립대학교 후기",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "fifa u 20 여자 월드컵 뜻",
+          "keyword": "거점국립대학교 결과",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
     },
     {
-      "keyword": "부산국제영화제",
+      "keyword": "동구",
       "category": "연예",
       "catKey": "culture",
-      "reason": "‘와호장룡’ 양자경 15년 만에 부산 레드카펫 밟는다···내달 6일부터 부산국제영화제",
+      "reason": "대전시 동구의회, 제295회 정례회 폐회 - 보도자료 | 기사",
       "series": [
-        2.47,
-        2.08,
-        1.38,
-        1.28,
-        2.14,
-        2.03,
-        2.16,
-        2.1,
-        4.87,
-        2.83,
-        2.41,
-        4.21,
-        3.67,
-        5.78
+        9.43,
+        10.5,
+        10.93,
+        7.5,
+        12.54,
+        9.86,
+        10.5,
+        9.65,
+        10.83,
+        9.22,
+        11.15,
+        9.86,
+        9.86,
+        10.61
       ],
       "dates": [
         "09/03",
@@ -264,215 +151,102 @@
         "09/15",
         "09/16"
       ],
-      "deltaPct": 57,
-      "latest": 5.78,
+      "deltaPct": 8,
+      "latest": 10.61,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "부산국제영화제 근황",
+          "keyword": "동구 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "부산국제영화제 프로필",
+          "keyword": "동구 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "부산국제영화제 나이",
+          "keyword": "동구 나이",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "부산국제영화제 열애설",
+          "keyword": "동구 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "부산국제영화제 논란",
+          "keyword": "동구 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "부산국제영화제 사건",
+          "keyword": "동구 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "부산국제영화제 반응",
+          "keyword": "동구 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "부산국제영화제 정리",
+          "keyword": "동구 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "부산국제영화제 이유",
+          "keyword": "동구 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "부산국제영화제 뜻",
+          "keyword": "동구 뜻",
           "volume": "하",
-          "trend": "신규",
+          "trend": "유지",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
     },
     {
-      "keyword": "윤여정",
+      "keyword": "캐시",
       "category": "연예",
       "catKey": "culture",
-      "reason": "윤여정 영어 지적한 BBC, 틀렸다···조지은 옥스퍼드 교수 “mukbang과 unnie도 맞는 영어”",
+      "reason": "[단독] 캐시워크 돈버는퀴즈 정답 9월 17일",
       "series": [
-        5.65,
-        7.87,
-        12.62,
-        7.73,
-        7.99,
-        10.55,
-        10.86,
-        10.48,
-        12.05,
-        13.08,
-        11.47,
-        15.38,
-        21.8,
-        27.86
-      ],
-      "dates": [
-        "09/03",
-        "09/04",
-        "09/05",
-        "09/06",
-        "09/07",
-        "09/08",
-        "09/09",
-        "09/10",
-        "09/11",
-        "09/12",
-        "09/13",
-        "09/14",
-        "09/15",
-        "09/16"
-      ],
-      "deltaPct": 28,
-      "latest": 27.86,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "윤여정 근황",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "윤여정 프로필",
-          "volume": "중",
-          "trend": "상승",
-          "competition": "하",
-          "reason": "검색 지수 35.64, 전일대비 +20%."
-        },
-        {
-          "keyword": "윤여정 나이",
-          "volume": "상",
-          "trend": "상승",
-          "competition": "중",
-          "reason": "검색 지수 100, 전일대비 +44%."
-        },
-        {
-          "keyword": "윤여정 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "윤여정 논란",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "윤여정 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "윤여정 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "윤여정 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "윤여정 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "윤여정 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "온주완",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "Google 실시간 트렌드 상위 키워드 (트래픽 1000+).",
-      "series": [
-        3.55,
-        4,
-        6.45,
-        5.99,
-        3.79,
-        3.26,
-        3.18,
+        3.72,
+        5.46,
+        3.48,
+        4.69,
+        8.99,
+        10.39,
+        6.52,
+        3.24,
+        4.3,
+        3.87,
         2.8,
-        3.18,
-        4.91,
-        4.35,
-        10.3,
-        7.36,
-        8.86
+        6.23,
+        5.8,
+        5.85
       ],
       "dates": [
         "09/03",
@@ -490,200 +264,87 @@
         "09/15",
         "09/16"
       ],
-      "deltaPct": 20,
-      "latest": 8.86,
+      "deltaPct": 1,
+      "latest": 5.85,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "온주완 근황",
+          "keyword": "캐시 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "온주완 프로필",
+          "keyword": "캐시 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "캐시 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "캐시 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "캐시 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "캐시 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "캐시 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "캐시 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "캐시 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "캐시 뜻",
           "volume": "상",
-          "trend": "하락",
-          "competition": "하",
-          "reason": "검색 지수 36.96, 전일대비 -36%."
-        },
-        {
-          "keyword": "온주완 나이",
-          "volume": "중",
-          "trend": "하락",
-          "competition": "하",
-          "reason": "검색 지수 8.7, 전일대비 -50%."
-        },
-        {
-          "keyword": "온주완 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "온주완 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "온주완 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "온주완 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "온주완 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "온주완 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "온주완 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+          "trend": "상승",
+          "competition": "중",
+          "reason": "검색 지수 25.81, 전일대비 +33%."
         }
       ]
     },
     {
-      "keyword": "고영욱",
+      "keyword": "where to watch nfl games",
       "category": "연예",
       "catKey": "culture",
-      "reason": "‘연예인 전자발찌 1호’ 고영욱, 비판 여론 속…“무빈소 장례 진작 결정, 난 늘 앞서가네”",
-      "series": [
-        4.5,
-        22.46,
-        31.34,
-        30.29,
-        100,
-        51.83,
-        36.16,
-        13.85,
-        9.5,
-        10.56,
-        7.64,
-        6.39,
-        4.65,
-        5.09
-      ],
-      "dates": [
-        "09/03",
-        "09/04",
-        "09/05",
-        "09/06",
-        "09/07",
-        "09/08",
-        "09/09",
-        "09/10",
-        "09/11",
-        "09/12",
-        "09/13",
-        "09/14",
-        "09/15",
-        "09/16"
-      ],
-      "deltaPct": 9,
-      "latest": 5.09,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "고영욱 근황",
-          "volume": "상",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 5.29, 전일대비 +100%."
-        },
-        {
-          "keyword": "고영욱 프로필",
-          "volume": "상",
-          "trend": "상승",
-          "competition": "하",
-          "reason": "검색 지수 4.71, 전일대비 +33%."
-        },
-        {
-          "keyword": "고영욱 나이",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "고영욱 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "고영욱 논란",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "고영욱 사건",
-          "volume": "상",
-          "trend": "상승",
-          "competition": "하",
-          "reason": "검색 지수 4.91, 전일대비 +33%."
-        },
-        {
-          "keyword": "고영욱 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "고영욱 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "고영욱 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "고영욱 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "도널드 j. 트럼프",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "&quot;감히 내 이름을 빼?&quot;…트럼프, 케네디센터 &quot;즉각 폐쇄&quot; 몽니[이런일이]",
+      "reason": "NFL+: How to watch Week 2, schedule, key matchups, and more",
       "series": [
         0,
         0,
@@ -721,70 +382,70 @@
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "도널드 j. 트럼프 근황",
+          "keyword": "where to watch nfl games 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "도널드 j. 트럼프 프로필",
+          "keyword": "where to watch nfl games 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "도널드 j. 트럼프 나이",
+          "keyword": "where to watch nfl games 나이",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "도널드 j. 트럼프 열애설",
+          "keyword": "where to watch nfl games 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "도널드 j. 트럼프 논란",
+          "keyword": "where to watch nfl games 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "도널드 j. 트럼프 사건",
+          "keyword": "where to watch nfl games 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "도널드 j. 트럼프 반응",
+          "keyword": "where to watch nfl games 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "도널드 j. 트럼프 정리",
+          "keyword": "where to watch nfl games 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "도널드 j. 트럼프 이유",
+          "keyword": "where to watch nfl games 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "도널드 j. 트럼프 뜻",
+          "keyword": "where to watch nfl games 뜻",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
@@ -793,25 +454,25 @@
       ]
     },
     {
-      "keyword": "캐시워크 정답",
+      "keyword": "명절",
       "category": "연예",
       "catKey": "culture",
-      "reason": "[단독] 캐시워크 돈버는퀴즈 정답 9월 17일",
+      "reason": "남부발전, 추석 맞아 &apos;명절 선물 안 주고 안 받기&apos; 캠페인 전개",
       "series": [
-        15.87,
-        62.81,
-        21.56,
-        16.74,
-        92.87,
-        79.18,
-        75.98,
-        12.74,
-        56.3,
-        30.77,
-        8.54,
-        77.71,
-        95.39,
-        81.65
+        51.23,
+        46.41,
+        29.58,
+        35.58,
+        64.2,
+        65.06,
+        61.74,
+        62.17,
+        66.24,
+        47.48,
+        54.98,
+        100,
+        98.18,
+        96.57
       ],
       "dates": [
         "09/03",
@@ -829,102 +490,102 @@
         "09/15",
         "09/16"
       ],
-      "deltaPct": -14,
-      "latest": 81.65,
+      "deltaPct": -2,
+      "latest": 96.57,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "캐시워크 정답 근황",
+          "keyword": "명절 근황",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "캐시워크 정답 프로필",
+          "keyword": "명절 프로필",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "캐시워크 정답 나이",
+          "keyword": "명절 나이",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "캐시워크 정답 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "캐시워크 정답 논란",
+          "keyword": "명절 열애설",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "캐시워크 정답 사건",
+          "keyword": "명절 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "캐시워크 정답 반응",
+          "keyword": "명절 사건",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "캐시워크 정답 정리",
+          "keyword": "명절 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "캐시워크 정답 이유",
+          "keyword": "명절 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "캐시워크 정답 뜻",
+          "keyword": "명절 이유",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "명절 뜻",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "상",
+          "reason": "검색 지수 100, 전일대비 +19%."
         }
       ]
     },
     {
-      "keyword": "pca",
+      "keyword": "종합병원",
       "category": "연예",
       "catKey": "culture",
-      "reason": "PCA adds to MVP candidacy with another multihomer night against Braves",
+      "reason": "쌍용건설, 3조원 규모 싱가포르 병원 수주… 작년 年매출 1.7배",
       "series": [
-        0.38,
-        0.59,
-        0.66,
-        0.3,
-        0.89,
-        0.79,
-        0.46,
-        0.32,
-        0.23,
-        0.19,
-        0.18,
-        0.2,
-        0.49,
-        0.39
+        37.51,
+        36.98,
+        21.97,
+        19.83,
+        38.91,
+        35.91,
+        36.44,
+        33.76,
+        33.12,
+        22.19,
+        18.22,
+        38.16,
+        35.05,
+        33.12
       ],
       "dates": [
         "09/03",
@@ -942,102 +603,102 @@
         "09/15",
         "09/16"
       ],
-      "deltaPct": -20,
-      "latest": 0.39,
+      "deltaPct": -6,
+      "latest": 33.12,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "pca 근황",
+          "keyword": "종합병원 근황",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "pca 프로필",
+          "keyword": "종합병원 프로필",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "pca 나이",
+          "keyword": "종합병원 나이",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "pca 열애설",
+          "keyword": "종합병원 열애설",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "pca 논란",
+          "keyword": "종합병원 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "pca 사건",
+          "keyword": "종합병원 사건",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "pca 반응",
+          "keyword": "종합병원 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "pca 정리",
+          "keyword": "종합병원 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "pca 이유",
+          "keyword": "종합병원 이유",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "pca 뜻",
+          "keyword": "종합병원 뜻",
           "volume": "하",
           "trend": "유지",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
     },
     {
-      "keyword": "유승민",
+      "keyword": "제주일보",
       "category": "연예",
       "catKey": "culture",
-      "reason": "유승민 &apos;국가대표 선발 개입&apos; 불송치에 고발인 수사심의 신청",
+      "reason": "Google 실시간 트렌드 상위 키워드 (트래픽 100+).",
       "series": [
-        0.7,
-        0.49,
-        0.42,
-        0.37,
-        0.39,
-        0.4,
-        0.37,
-        0.34,
-        0.36,
-        0.34,
-        0.34,
-        0.32,
-        0.7,
-        0.41
+        37.94,
+        49.95,
+        19.29,
+        18.11,
+        47.91,
+        45.44,
+        43.52,
+        38.16,
+        38.16,
+        19.08,
+        19.94,
+        45.23,
+        45.77,
+        40.51
       ],
       "dates": [
         "09/03",
@@ -1055,75 +716,414 @@
         "09/15",
         "09/16"
       ],
-      "deltaPct": -41,
-      "latest": 0.41,
+      "deltaPct": -11,
+      "latest": 40.51,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "유승민 근황",
+          "keyword": "제주일보 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "유승민 프로필",
+          "keyword": "제주일보 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "제주일보 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "제주일보 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "제주일보 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "제주일보 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "제주일보 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "제주일보 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "제주일보 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "제주일보 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "지방정부",
+      "category": "정치",
+      "catKey": "politics",
+      "reason": "프랑스 지방정부 대표단, 화성서 자율주행차 타고 미래 모빌리티 체험",
+      "series": [
+        1.26,
+        0,
+        0,
+        0.39,
+        1.01,
+        0.53,
+        0.87,
+        0.82,
+        0.77,
+        0,
+        0,
+        0.87,
+        0.82,
+        0.72
+      ],
+      "dates": [
+        "09/03",
+        "09/04",
+        "09/05",
+        "09/06",
+        "09/07",
+        "09/08",
+        "09/09",
+        "09/10",
+        "09/11",
+        "09/12",
+        "09/13",
+        "09/14",
+        "09/15",
+        "09/16"
+      ],
+      "deltaPct": -12,
+      "latest": 0.72,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "지방정부 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "지방정부 전망",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "지방정부 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "지방정부 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "지방정부 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "지방정부 배경",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "지방정부 총정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "지방정부 입장",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "지방정부 영향",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "지방정부 뜻",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "국내총생산",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "&quot;한국 1인당 GDP 주요 29개국 중 13위…경제 체감도는 27위&quot;",
+      "series": [
+        4.5,
+        3.32,
+        1.82,
+        2.47,
+        6.32,
+        7.18,
+        5.36,
+        3.54,
+        3.75,
+        2.36,
+        2.57,
+        3.11,
+        3.64,
+        2.79
+      ],
+      "dates": [
+        "09/03",
+        "09/04",
+        "09/05",
+        "09/06",
+        "09/07",
+        "09/08",
+        "09/09",
+        "09/10",
+        "09/11",
+        "09/12",
+        "09/13",
+        "09/14",
+        "09/15",
+        "09/16"
+      ],
+      "deltaPct": -23,
+      "latest": 2.79,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "국내총생산 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "국내총생산 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "국내총생산 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "국내총생산 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "국내총생산 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "국내총생산 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "국내총생산 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "국내총생산 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "국내총생산 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "국내총생산 뜻",
+          "volume": "상",
+          "trend": "하락",
+          "competition": "중",
+          "reason": "검색 지수 91.67, 전일대비 -8%."
+        }
+      ]
+    },
+    {
+      "keyword": "옌스 카스트로프",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "[공식발표]&apos;韓 초대형 호재&apos; 혼혈 국대 카스트로프, 아시안컵 소집 가능할까...러닝 훈련 복귀",
+      "series": [
+        20.15,
+        10,
+        19.28,
+        17.83,
+        9.42,
+        12.08,
+        8.36,
+        7.83,
+        7.35,
+        16.87,
+        22.43,
+        100,
+        51.28,
+        14.31
+      ],
+      "dates": [
+        "09/03",
+        "09/04",
+        "09/05",
+        "09/06",
+        "09/07",
+        "09/08",
+        "09/09",
+        "09/10",
+        "09/11",
+        "09/12",
+        "09/13",
+        "09/14",
+        "09/15",
+        "09/16"
+      ],
+      "deltaPct": -72,
+      "latest": 14.31,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "옌스 카스트로프 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "옌스 카스트로프 프로필",
           "volume": "상",
           "trend": "하락",
           "competition": "하",
-          "reason": "검색 지수 31.25, 전일대비 -55%."
+          "reason": "검색 지수 18.92, 전일대비 -81%."
         },
         {
-          "keyword": "유승민 나이",
+          "keyword": "옌스 카스트로프 나이",
           "volume": "하",
-          "trend": "하락",
+          "trend": "신규",
           "competition": "하",
-          "reason": "검색 지수 0, 전일대비 -100%."
+          "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "유승민 열애설",
+          "keyword": "옌스 카스트로프 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "유승민 논란",
+          "keyword": "옌스 카스트로프 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "유승민 사건",
+          "keyword": "옌스 카스트로프 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "유승민 반응",
+          "keyword": "옌스 카스트로프 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "유승민 정리",
+          "keyword": "옌스 카스트로프 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "유승민 이유",
+          "keyword": "옌스 카스트로프 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "유승민 뜻",
+          "keyword": "옌스 카스트로프 뜻",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
