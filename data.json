@@ -1,29 +1,28 @@
 {
-  "generatedAt": "2026-11-11(수) 21:26 KST",
+  "generatedAt": "2026-11-12(목) 14:48 KST",
   "items": [
     {
-      "keyword": "김현지",
+      "keyword": "sk쉴더스",
       "category": "연예",
       "catKey": "culture",
-      "reason": "[단독]이용철, ‘일가족 살해 후 사체 소각’ 흉악범 변호···변론 전략은 “검찰 강압수사”",
+      "reason": "SK쉴더스, 희망퇴직 실시…조직·인력 재정비",
       "series": [
-        19.04,
-        27.27,
-        29.41,
-        18.94,
-        10.51,
-        11.55,
-        11.66,
-        9.12,
-        19.4,
-        16.57,
-        10.11,
-        13.15,
-        18.51,
-        58.28
+        1.92,
+        1.67,
+        0.55,
+        0.53,
+        1.72,
+        1.97,
+        2.51,
+        1.9,
+        1.71,
+        0.62,
+        0.67,
+        1.72,
+        1.91,
+        2.31
       ],
       "dates": [
-        "10/28",
         "10/29",
         "10/30",
         "10/31",
@@ -36,77 +35,78 @@
         "11/07",
         "11/08",
         "11/09",
-        "11/10"
+        "11/10",
+        "11/11"
       ],
-      "deltaPct": 215,
-      "latest": 58.28,
+      "deltaPct": 21,
+      "latest": 2.31,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "김현지 근황",
+          "keyword": "sk쉴더스 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "김현지 프로필",
-          "volume": "상",
-          "trend": "상승",
-          "competition": "하",
-          "reason": "검색 지수 92.59, 전일대비 +191%."
-        },
-        {
-          "keyword": "김현지 나이",
+          "keyword": "sk쉴더스 프로필",
           "volume": "하",
-          "trend": "상승",
+          "trend": "신규",
           "competition": "하",
-          "reason": "검색 지수 1.06, 전일대비 +39%."
+          "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "김현지 열애설",
+          "keyword": "sk쉴더스 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "sk쉴더스 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "김현지 논란",
+          "keyword": "sk쉴더스 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "김현지 사건",
+          "keyword": "sk쉴더스 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "김현지 반응",
+          "keyword": "sk쉴더스 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "김현지 정리",
+          "keyword": "sk쉴더스 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "김현지 이유",
+          "keyword": "sk쉴더스 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "김현지 뜻",
+          "keyword": "sk쉴더스 뜻",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
@@ -115,28 +115,27 @@
       ]
     },
     {
-      "keyword": "둠스데이",
+      "keyword": "스타벅스",
       "category": "연예",
       "catKey": "culture",
-      "reason": "&apos;어벤져스: 둠스데이&apos; 내한 확정…캡틴 아메리카·토르 한국 온다",
+      "reason": "&apos;탱크데이&apos; 여파 못 헤쳐나온 스타벅스, 2개 분기 연속 적자",
       "series": [
-        28.45,
-        27.16,
-        38.21,
-        31.72,
-        33.82,
-        30.03,
-        36.83,
-        30.62,
-        34.66,
-        39.97,
-        37.65,
-        36.74,
-        35.55,
-        100
+        67.02,
+        83.21,
+        100,
+        78.69,
+        61.61,
+        68.74,
+        65.76,
+        67.19,
+        81,
+        99.85,
+        85.57,
+        66.59,
+        69.1,
+        74.93
       ],
       "dates": [
-        "10/28",
         "10/29",
         "10/30",
         "10/31",
@@ -149,559 +148,107 @@
         "11/07",
         "11/08",
         "11/09",
-        "11/10"
+        "11/10",
+        "11/11"
       ],
-      "deltaPct": 181,
-      "latest": 100,
+      "deltaPct": 8,
+      "latest": 74.93,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "둠스데이 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "둠스데이 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "둠스데이 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "둠스데이 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "둠스데이 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "둠스데이 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "둠스데이 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "둠스데이 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "둠스데이 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "둠스데이 뜻",
-          "volume": "상",
-          "trend": "상승",
-          "competition": "하",
-          "reason": "검색 지수 56.43, 전일대비 +109%."
-        }
-      ]
-    },
-    {
-      "keyword": "의약품",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "내일부터 ‘스시자로’ 국내 반입 가능, 3개월분까지 허용",
-      "series": [
-        0.97,
-        0.85,
-        0.77,
-        0.47,
-        0.54,
-        0.91,
-        1.06,
-        0.8,
-        0.94,
-        0.69,
-        0.51,
-        0.36,
-        0.71,
-        0.94
-      ],
-      "dates": [
-        "10/28",
-        "10/29",
-        "10/30",
-        "10/31",
-        "11/01",
-        "11/02",
-        "11/03",
-        "11/04",
-        "11/05",
-        "11/06",
-        "11/07",
-        "11/08",
-        "11/09",
-        "11/10"
-      ],
-      "deltaPct": 32,
-      "latest": 0.94,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "의약품 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "의약품 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "의약품 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "의약품 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "의약품 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "의약품 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "의약품 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "의약품 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "의약품 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "의약품 뜻",
+          "keyword": "스타벅스 근황",
           "volume": "하",
           "trend": "유지",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "임신",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
-      "series": [
-        4.04,
-        3.84,
-        3.59,
-        3.56,
-        4.05,
-        4.36,
-        3.62,
-        4.09,
-        3.76,
-        3.88,
-        3.29,
-        3.94,
-        3.49,
-        4.13
-      ],
-      "dates": [
-        "10/28",
-        "10/29",
-        "10/30",
-        "10/31",
-        "11/01",
-        "11/02",
-        "11/03",
-        "11/04",
-        "11/05",
-        "11/06",
-        "11/07",
-        "11/08",
-        "11/09",
-        "11/10"
-      ],
-      "deltaPct": 18,
-      "latest": 4.13,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "임신 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "임신 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "임신 나이",
-          "volume": "하",
-          "trend": "하락",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 -100%."
-        },
-        {
-          "keyword": "임신 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "임신 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "임신 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "임신 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "임신 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "임신 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "임신 뜻",
-          "volume": "하",
-          "trend": "하락",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 -100%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "주차장",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "서부발전, 대전산단 에너지 자립사업 참여…320억 규모",
-      "series": [
-        10.92,
-        9.93,
-        11.22,
-        17.12,
-        10.3,
-        8.97,
-        9.92,
-        9.12,
-        9.02,
-        10.95,
-        18.5,
-        11.64,
-        8.99,
-        10.23
-      ],
-      "dates": [
-        "10/28",
-        "10/29",
-        "10/30",
-        "10/31",
-        "11/01",
-        "11/02",
-        "11/03",
-        "11/04",
-        "11/05",
-        "11/06",
-        "11/07",
-        "11/08",
-        "11/09",
-        "11/10"
-      ],
-      "deltaPct": 14,
-      "latest": 10.23,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "주차장 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "주차장 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "주차장 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "주차장 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "주차장 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "주차장 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "주차장 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "주차장 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "주차장 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "주차장 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "비전",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "용인특례시, 미래도시 발전 전략 ‘용인비전 2040’ 구체화… 내년부터 본격 추진",
-      "series": [
-        3.74,
-        3.21,
-        2.91,
-        2.55,
-        2.7,
-        3.39,
-        3.12,
-        3.83,
-        3.48,
-        3.54,
-        2.94,
-        3.06,
-        3.05,
-        3.37
-      ],
-      "dates": [
-        "10/28",
-        "10/29",
-        "10/30",
-        "10/31",
-        "11/01",
-        "11/02",
-        "11/03",
-        "11/04",
-        "11/05",
-        "11/06",
-        "11/07",
-        "11/08",
-        "11/09",
-        "11/10"
-      ],
-      "deltaPct": 10,
-      "latest": 3.37,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "비전 근황",
-          "volume": "하",
-          "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "비전 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "비전 나이",
+          "keyword": "스타벅스 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "비전 열애설",
+          "keyword": "스타벅스 나이",
           "volume": "하",
           "trend": "신규",
           "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "비전 논란",
+          "keyword": "스타벅스 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "비전 사건",
+          "keyword": "스타벅스 논란",
+          "volume": "중",
+          "trend": "상승",
+          "competition": "중",
+          "reason": "검색 지수 23.2, 전일대비 +21%."
+        },
+        {
+          "keyword": "스타벅스 사건",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "스타벅스 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "비전 반응",
+          "keyword": "스타벅스 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "비전 정리",
+          "keyword": "스타벅스 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "비전 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "비전 뜻",
+          "keyword": "스타벅스 뜻",
           "volume": "상",
           "trend": "하락",
           "competition": "상",
-          "reason": "검색 지수 65.29, 전일대비 -17%."
+          "reason": "검색 지수 68.89, 전일대비 -22%."
         }
       ]
     },
     {
-      "keyword": "xsmb",
+      "keyword": "빙하",
       "category": "연예",
       "catKey": "culture",
-      "reason": "Kết quả xổ số miền Trung hôm nay 11.11: Khánh Hòa, Đà Nẵng",
+      "reason": "모두 잠든 새벽 아기와 엄마가 휩쓸려갔다…“빙하홍수는 실존 공포”",
       "series": [
-        0.85,
-        0.8,
-        0.78,
-        0.73,
-        0.66,
-        0.65,
-        0.66,
-        0.84,
-        1.02,
-        0.72,
-        0.7,
-        0.85,
-        0.68,
-        0.73
+        0.29,
+        0.28,
+        0.13,
+        0.17,
+        0.26,
+        0.3,
+        0.26,
+        0.31,
+        0.27,
+        0.17,
+        0.21,
+        0.28,
+        0.28,
+        0.3
       ],
       "dates": [
-        "10/28",
         "10/29",
         "10/30",
         "10/31",
@@ -714,202 +261,90 @@
         "11/07",
         "11/08",
         "11/09",
-        "11/10"
+        "11/10",
+        "11/11"
       ],
       "deltaPct": 7,
-      "latest": 0.73,
+      "latest": 0.3,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "xsmb 근황",
+          "keyword": "빙하 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "xsmb 프로필",
+          "keyword": "빙하 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "xsmb 나이",
+          "keyword": "빙하 나이",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "xsmb 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "xsmb 논란",
+          "keyword": "빙하 열애설",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "xsmb 사건",
+          "keyword": "빙하 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "xsmb 반응",
+          "keyword": "빙하 사건",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "xsmb 정리",
+          "keyword": "빙하 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "xsmb 이유",
+          "keyword": "빙하 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "xsmb 뜻",
+          "keyword": "빙하 이유",
           "volume": "하",
           "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "인터뷰",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "[인터뷰] 조인성 &quot;이창동 감독님은 영화의 신, 초심으로 돌아간 기분&quot;",
-      "series": [
-        1.16,
-        1.35,
-        0.94,
-        0.69,
-        1.43,
-        1.28,
-        1.07,
-        1.09,
-        1.19,
-        1.22,
-        0.87,
-        1.37,
-        1.2,
-        1.25
-      ],
-      "dates": [
-        "10/28",
-        "10/29",
-        "10/30",
-        "10/31",
-        "11/01",
-        "11/02",
-        "11/03",
-        "11/04",
-        "11/05",
-        "11/06",
-        "11/07",
-        "11/08",
-        "11/09",
-        "11/10"
-      ],
-      "deltaPct": 4,
-      "latest": 1.25,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "인터뷰 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "인터뷰 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "인터뷰 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "인터뷰 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "인터뷰 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "인터뷰 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "인터뷰 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "인터뷰 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "인터뷰 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "인터뷰 뜻",
+          "keyword": "빙하 뜻",
           "volume": "상",
-          "trend": "하락",
-          "competition": "상",
-          "reason": "검색 지수 69.23, 전일대비 -10%."
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 58.33, 전일대비 +100%."
         }
       ]
     },
     {
-      "keyword": "창원 lg 대 서울 sk",
+      "keyword": "rockets vs warriors",
       "category": "연예",
       "catKey": "culture",
-      "reason": "&apos;1쿼터 32-8&apos; 프로농구 LG, SK 완파하고 공동 5위…굿윈 26점",
+      "reason": "Stephen Curry injured versus Rockets",
       "series": [
         0,
         0,
@@ -927,7 +362,6 @@
         0
       ],
       "dates": [
-        "10/28",
         "10/29",
         "10/30",
         "10/31",
@@ -940,77 +374,78 @@
         "11/07",
         "11/08",
         "11/09",
-        "11/10"
+        "11/10",
+        "11/11"
       ],
       "deltaPct": 0,
       "latest": 0,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "창원 lg 대 서울 sk 근황",
+          "keyword": "rockets vs warriors 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "창원 lg 대 서울 sk 프로필",
+          "keyword": "rockets vs warriors 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "창원 lg 대 서울 sk 나이",
+          "keyword": "rockets vs warriors 나이",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "창원 lg 대 서울 sk 열애설",
+          "keyword": "rockets vs warriors 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "창원 lg 대 서울 sk 논란",
+          "keyword": "rockets vs warriors 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "창원 lg 대 서울 sk 사건",
+          "keyword": "rockets vs warriors 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "창원 lg 대 서울 sk 반응",
+          "keyword": "rockets vs warriors 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "창원 lg 대 서울 sk 정리",
+          "keyword": "rockets vs warriors 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "창원 lg 대 서울 sk 이유",
+          "keyword": "rockets vs warriors 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "창원 lg 대 서울 sk 뜻",
+          "keyword": "rockets vs warriors 뜻",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
@@ -1019,28 +454,27 @@
       ]
     },
     {
-      "keyword": "연합뉴스",
+      "keyword": "베트남 u-23 축구 국가대표팀",
       "category": "연예",
       "catKey": "culture",
-      "reason": "너무 속 보이는 민주당의 연합뉴스 지배구조 개편...연합뉴스에 특별한 문제가 돌출한 것도 아닌데 왜 법 개정 서두르나?",
+      "reason": "송람응에안 선수가 태국 U23 대표팀과의 경기에서 인상적인 활약을 펼쳤습니다.",
       "series": [
-        69.95,
-        75.39,
-        69.63,
-        40.43,
-        46.4,
-        66.69,
-        71.37,
-        100,
-        74.63,
-        68.04,
-        43.2,
-        45.41,
-        67.45,
-        66.99
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "dates": [
-        "10/28",
         "10/29",
         "10/30",
         "10/31",
@@ -1053,80 +487,646 @@
         "11/07",
         "11/08",
         "11/09",
-        "11/10"
+        "11/10",
+        "11/11"
       ],
-      "deltaPct": -1,
-      "latest": 66.99,
+      "deltaPct": 0,
+      "latest": 0,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "연합뉴스 근황",
+          "keyword": "베트남 u-23 축구 국가대표팀 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "베트남 u-23 축구 국가대표팀 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "베트남 u-23 축구 국가대표팀 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "베트남 u-23 축구 국가대표팀 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "베트남 u-23 축구 국가대표팀 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "베트남 u-23 축구 국가대표팀 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "베트남 u-23 축구 국가대표팀 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "베트남 u-23 축구 국가대표팀 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "베트남 u-23 축구 국가대표팀 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "베트남 u-23 축구 국가대표팀 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "포틀랜드 대 오클라호마시티",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "[오클라호마시티 포틀랜드] 코트 떠나는 길저스-알렉산더",
+      "series": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dates": [
+        "10/29",
+        "10/30",
+        "10/31",
+        "11/01",
+        "11/02",
+        "11/03",
+        "11/04",
+        "11/05",
+        "11/06",
+        "11/07",
+        "11/08",
+        "11/09",
+        "11/10",
+        "11/11"
+      ],
+      "deltaPct": 0,
+      "latest": 0,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "포틀랜드 대 오클라호마시티 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "포틀랜드 대 오클라호마시티 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "포틀랜드 대 오클라호마시티 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "포틀랜드 대 오클라호마시티 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "포틀랜드 대 오클라호마시티 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "포틀랜드 대 오클라호마시티 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "포틀랜드 대 오클라호마시티 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "포틀랜드 대 오클라호마시티 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "포틀랜드 대 오클라호마시티 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "포틀랜드 대 오클라호마시티 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "장례",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "가스공사, 대구파티마병원과 장례식장 다회용기 사용 본격 추진",
+      "series": [
+        4.18,
+        4.87,
+        4.15,
+        3.55,
+        5.86,
+        5.01,
+        4.84,
+        4.02,
+        4.07,
+        3.38,
+        3.33,
+        4.51,
+        5.12,
+        4.65
+      ],
+      "dates": [
+        "10/29",
+        "10/30",
+        "10/31",
+        "11/01",
+        "11/02",
+        "11/03",
+        "11/04",
+        "11/05",
+        "11/06",
+        "11/07",
+        "11/08",
+        "11/09",
+        "11/10",
+        "11/11"
+      ],
+      "deltaPct": -9,
+      "latest": 4.65,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "장례 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "연합뉴스 프로필",
+          "keyword": "장례 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "연합뉴스 나이",
+          "keyword": "장례 나이",
           "volume": "하",
           "trend": "신규",
           "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장례 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장례 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장례 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장례 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장례 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장례 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장례 뜻",
+          "volume": "상",
+          "trend": "하락",
+          "competition": "상",
+          "reason": "검색 지수 47.62, 전일대비 -44%."
+        }
+      ]
+    },
+    {
+      "keyword": "이건희",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "[fn광장] 생각 좀 하며 세상을 보자",
+      "series": [
+        37.69,
+        45.5,
+        37.06,
+        32.52,
+        40.72,
+        32.21,
+        32.24,
+        32.79,
+        31.33,
+        35.82,
+        38.79,
+        45.45,
+        39.39,
+        35.38
+      ],
+      "dates": [
+        "10/29",
+        "10/30",
+        "10/31",
+        "11/01",
+        "11/02",
+        "11/03",
+        "11/04",
+        "11/05",
+        "11/06",
+        "11/07",
+        "11/08",
+        "11/09",
+        "11/10",
+        "11/11"
+      ],
+      "deltaPct": -10,
+      "latest": 35.38,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "이건희 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "연합뉴스 열애설",
+          "keyword": "이건희 프로필",
+          "volume": "상",
+          "trend": "유지",
+          "competition": "하",
+          "reason": "검색 지수 38.85, 전일대비 +4%."
+        },
+        {
+          "keyword": "이건희 나이",
+          "volume": "중",
+          "trend": "하락",
+          "competition": "중",
+          "reason": "검색 지수 7.19, 전일대비 -17%."
+        },
+        {
+          "keyword": "이건희 열애설",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "연합뉴스 논란",
+          "keyword": "이건희 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "연합뉴스 사건",
+          "keyword": "이건희 사건",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "연합뉴스 반응",
+          "keyword": "이건희 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "연합뉴스 정리",
+          "keyword": "이건희 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "연합뉴스 이유",
+          "keyword": "이건희 이유",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "연합뉴스 뜻",
+          "keyword": "이건희 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "200만달러",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "LG 오스틴 딘, 200만 달러에 2027시즌 재계약...외국인 타자 역대 최고액",
+      "series": [
+        10.32,
+        13.81,
+        10.43,
+        11.66,
+        11.77,
+        18.07,
+        11.8,
+        9.57,
+        11.86,
+        10.29,
+        13.81,
+        10.21,
+        11.47,
+        9.79
+      ],
+      "dates": [
+        "10/29",
+        "10/30",
+        "10/31",
+        "11/01",
+        "11/02",
+        "11/03",
+        "11/04",
+        "11/05",
+        "11/06",
+        "11/07",
+        "11/08",
+        "11/09",
+        "11/10",
+        "11/11"
+      ],
+      "deltaPct": -15,
+      "latest": 9.79,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "200만달러 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "200만달러 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "200만달러 나이",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "200만달러 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "200만달러 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "200만달러 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "200만달러 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "200만달러 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "200만달러 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "200만달러 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "장기 이식",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "&quot;아내는 이식 기다리다 숨졌는데&quot;…남편은 3명에 새 생명 선물",
+      "series": [
+        0.09,
+        0.06,
+        0.04,
+        0.04,
+        0.07,
+        0.06,
+        0.06,
+        0.09,
+        0.1,
+        0.05,
+        0.05,
+        0.09,
+        0.06,
+        0.04
+      ],
+      "dates": [
+        "10/29",
+        "10/30",
+        "10/31",
+        "11/01",
+        "11/02",
+        "11/03",
+        "11/04",
+        "11/05",
+        "11/06",
+        "11/07",
+        "11/08",
+        "11/09",
+        "11/10",
+        "11/11"
+      ],
+      "deltaPct": -33,
+      "latest": 0.04,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "장기 이식 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "장기 이식 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "장기 이식 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "장기 이식 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장기 이식 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장기 이식 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장기 이식 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장기 이식 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장기 이식 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "장기 이식 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
