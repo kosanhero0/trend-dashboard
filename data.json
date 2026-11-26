@@ -1,29 +1,28 @@
 {
-  "generatedAt": "2026-11-26(목) 03:26 KST",
+  "generatedAt": "2026-11-26(목) 15:55 KST",
   "items": [
     {
-      "keyword": "데이비스컵",
+      "keyword": "kbo 시상식",
       "category": "연예",
       "catKey": "culture",
-      "reason": "랭킹은 숫자일 뿐… ‘이변의 주인공’ 꿈꾸는 韓 테니스",
+      "reason": "[속보] &apos;2026 KBO 시상식&apos; 타자 부문 6명 수상⋯구자욱ㆍ김도영 2관왕",
       "series": [
-        0.19,
-        0.11,
-        0.19,
-        0.46,
-        0.14,
-        0.3,
-        0.84,
-        0.62,
-        0.94,
-        1.71,
-        1.4,
-        1.24,
-        2.33,
-        4.87
+        7.69,
+        5.07,
+        3.1,
+        4.36,
+        9.2,
+        9.68,
+        28.45,
+        35.57,
+        15.31,
+        8.23,
+        10.38,
+        25.92,
+        27.43,
+        54.14
       ],
       "dates": [
-        "11/11",
         "11/12",
         "11/13",
         "11/14",
@@ -36,77 +35,78 @@
         "11/21",
         "11/22",
         "11/23",
-        "11/24"
+        "11/24",
+        "11/25"
       ],
-      "deltaPct": 109,
-      "latest": 4.87,
+      "deltaPct": 97,
+      "latest": 54.14,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "데이비스컵 근황",
+          "keyword": "kbo 시상식 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "데이비스컵 프로필",
+          "keyword": "kbo 시상식 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "데이비스컵 나이",
+          "keyword": "kbo 시상식 나이",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "데이비스컵 열애설",
+          "keyword": "kbo 시상식 열애설",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "데이비스컵 논란",
+          "keyword": "kbo 시상식 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "데이비스컵 사건",
+          "keyword": "kbo 시상식 사건",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "데이비스컵 반응",
+          "keyword": "kbo 시상식 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "데이비스컵 정리",
+          "keyword": "kbo 시상식 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "데이비스컵 이유",
+          "keyword": "kbo 시상식 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "데이비스컵 뜻",
+          "keyword": "kbo 시상식 뜻",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
@@ -115,28 +115,27 @@
       ]
     },
     {
-      "keyword": "시그널",
+      "keyword": "부산일보",
       "category": "연예",
       "catKey": "culture",
-      "reason": "김은희 작가의 &apos;시그널2&apos;, 조진웅 복귀 무대 되나",
+      "reason": "Google 실시간 트렌드 상위 키워드 (트래픽 200+).",
       "series": [
-        8.31,
-        8.95,
-        8.01,
-        12.22,
-        10.31,
-        9.43,
-        9.04,
-        8.63,
-        8.5,
-        8.36,
-        8.97,
-        9.1,
-        18.41,
-        28.54
+        36.66,
+        29.94,
+        16.98,
+        15.63,
+        33.92,
+        35.17,
+        32.5,
+        37.09,
+        31.3,
+        16.82,
+        16.46,
+        35.48,
+        34.49,
+        35.73
       ],
       "dates": [
-        "11/11",
         "11/12",
         "11/13",
         "11/14",
@@ -149,315 +148,316 @@
         "11/21",
         "11/22",
         "11/23",
-        "11/24"
-      ],
-      "deltaPct": 55,
-      "latest": 28.54,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "시그널 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "시그널 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "시그널 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "시그널 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "시그널 논란",
-          "volume": "상",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 100, 전일대비 +100%."
-        },
-        {
-          "keyword": "시그널 사건",
-          "volume": "하",
-          "trend": "유지",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "시그널 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "시그널 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "시그널 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "시그널 뜻",
-          "volume": "상",
-          "trend": "상승",
-          "competition": "상",
-          "reason": "검색 지수 68.25, 전일대비 +57%."
-        }
-      ]
-    },
-    {
-      "keyword": "qqq",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade",
-      "series": [
-        21.81,
-        21.21,
-        17.88,
-        11.51,
-        5.3,
-        12.63,
-        20.49,
-        18.43,
-        17.36,
-        26.51,
-        30.04,
-        9.89,
-        28.29,
-        31.62
-      ],
-      "dates": [
-        "11/11",
-        "11/12",
-        "11/13",
-        "11/14",
-        "11/15",
-        "11/16",
-        "11/17",
-        "11/18",
-        "11/19",
-        "11/20",
-        "11/21",
-        "11/22",
-        "11/23",
-        "11/24"
-      ],
-      "deltaPct": 12,
-      "latest": 31.62,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "qqq 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "qqq 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "qqq 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "qqq 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "qqq 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "qqq 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "qqq 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "qqq 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "qqq 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "qqq 뜻",
-          "volume": "상",
-          "trend": "유지",
-          "competition": "중",
-          "reason": "검색 지수 62.71, 전일대비 -1%."
-        }
-      ]
-    },
-    {
-      "keyword": "선수",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "훈련 중인 축구선수, 낙뢰 맞고 숨져…동료도 부상",
-      "series": [
-        0.96,
-        0.96,
-        1.04,
-        0.59,
-        0.91,
-        1.14,
-        1.09,
-        1.46,
-        0.52,
-        0.86,
-        1.16,
-        1.18,
-        1.14,
-        1.18
-      ],
-      "dates": [
-        "11/11",
-        "11/12",
-        "11/13",
-        "11/14",
-        "11/15",
-        "11/16",
-        "11/17",
-        "11/18",
-        "11/19",
-        "11/20",
-        "11/21",
-        "11/22",
-        "11/23",
-        "11/24"
+        "11/24",
+        "11/25"
       ],
       "deltaPct": 4,
-      "latest": 1.18,
+      "latest": 35.73,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "선수 근황",
+          "keyword": "부산일보 근황",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "선수 프로필",
+          "keyword": "부산일보 프로필",
           "volume": "하",
-          "trend": "유지",
-          "competition": "상",
+          "trend": "신규",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "선수 나이",
+          "keyword": "부산일보 나이",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "중",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "선수 열애설",
+          "keyword": "부산일보 열애설",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "선수 논란",
+          "keyword": "부산일보 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "선수 사건",
+          "keyword": "부산일보 사건",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "선수 반응",
+          "keyword": "부산일보 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "선수 정리",
+          "keyword": "부산일보 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "선수 이유",
+          "keyword": "부산일보 이유",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "선수 뜻",
+          "keyword": "부산일보 뜻",
           "volume": "하",
-          "trend": "유지",
-          "competition": "상",
+          "trend": "신규",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         }
       ]
     },
     {
-      "keyword": "sabah vs barcelona",
+      "keyword": "맥도날드",
       "category": "연예",
       "catKey": "culture",
-      "reason": "El Barça viaja a los confines de la UEFA para enfrentarse al Sabah en Champions",
+      "reason": "맥도날드, 크리스마스 시즌 한정 메뉴 4종 출시",
+      "series": [
+        1.8,
+        2.78,
+        2.89,
+        2.85,
+        1.73,
+        1.66,
+        1.69,
+        1.8,
+        1.85,
+        2.31,
+        2.19,
+        1.5,
+        1.57,
+        1.64
+      ],
+      "dates": [
+        "11/12",
+        "11/13",
+        "11/14",
+        "11/15",
+        "11/16",
+        "11/17",
+        "11/18",
+        "11/19",
+        "11/20",
+        "11/21",
+        "11/22",
+        "11/23",
+        "11/24",
+        "11/25"
+      ],
+      "deltaPct": 4,
+      "latest": 1.64,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "맥도날드 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "맥도날드 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "맥도날드 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "맥도날드 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "맥도날드 논란",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "맥도날드 사건",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "맥도날드 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "맥도날드 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "맥도날드 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "맥도날드 뜻",
+          "volume": "상",
+          "trend": "유지",
+          "competition": "상",
+          "reason": "검색 지수 35.71, 전일대비 +0%."
+        }
+      ]
+    },
+    {
+      "keyword": "보험",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "보험 판매수수료 과당경쟁 막는다…지급한도·공시 규제 강화",
+      "series": [
+        17.87,
+        14.74,
+        9.11,
+        9.25,
+        19.92,
+        19.97,
+        18.93,
+        17.19,
+        16.24,
+        9.32,
+        9.97,
+        19.13,
+        17.53,
+        18.05
+      ],
+      "dates": [
+        "11/12",
+        "11/13",
+        "11/14",
+        "11/15",
+        "11/16",
+        "11/17",
+        "11/18",
+        "11/19",
+        "11/20",
+        "11/21",
+        "11/22",
+        "11/23",
+        "11/24",
+        "11/25"
+      ],
+      "deltaPct": 3,
+      "latest": 18.05,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "보험 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "보험 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "보험 나이",
+          "volume": "상",
+          "trend": "유지",
+          "competition": "상",
+          "reason": "검색 지수 73.08, 전일대비 +0%."
+        },
+        {
+          "keyword": "보험 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "보험 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "보험 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "보험 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "보험 정리",
+          "volume": "중",
+          "trend": "상승",
+          "competition": "상",
+          "reason": "검색 지수 11.82, 전일대비 +160%."
+        },
+        {
+          "keyword": "보험 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "보험 뜻",
+          "volume": "하",
+          "trend": "하락",
+          "competition": "상",
+          "reason": "검색 지수 7.27, 전일대비 -50%."
+        }
+      ]
+    },
+    {
+      "keyword": "남동공단 화재",
+      "category": "사회",
+      "catKey": "society",
+      "reason": "[속보] 인천 고잔동 남동산단서 큰 불…소방당국 진화 중",
       "series": [
         0,
         0,
@@ -475,7 +475,6 @@
         0
       ],
       "dates": [
-        "11/11",
         "11/12",
         "11/13",
         "11/14",
@@ -488,77 +487,78 @@
         "11/21",
         "11/22",
         "11/23",
-        "11/24"
+        "11/24",
+        "11/25"
       ],
       "deltaPct": 0,
       "latest": 0,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "sabah vs barcelona 근황",
+          "keyword": "남동공단 화재 이유",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "sabah vs barcelona 프로필",
+          "keyword": "남동공단 화재 정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "sabah vs barcelona 나이",
+          "keyword": "남동공단 화재 논란",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "sabah vs barcelona 열애설",
+          "keyword": "남동공단 화재 반응",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "sabah vs barcelona 논란",
+          "keyword": "남동공단 화재 배경",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "sabah vs barcelona 사건",
+          "keyword": "남동공단 화재 총정리",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "sabah vs barcelona 반응",
+          "keyword": "남동공단 화재 전망",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "sabah vs barcelona 정리",
+          "keyword": "남동공단 화재 영향",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "sabah vs barcelona 이유",
+          "keyword": "남동공단 화재 뜻",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "sabah vs barcelona 뜻",
+          "keyword": "남동공단 화재 후속",
           "volume": "하",
           "trend": "신규",
           "competition": "하",
@@ -567,254 +567,27 @@
       ]
     },
     {
-      "keyword": "sabah 대 바르셀로나",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "발다스 담브라우스카스, 바르셀로나전 앞두고 바쿠서 기자회견",
-      "series": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "dates": [
-        "11/11",
-        "11/12",
-        "11/13",
-        "11/14",
-        "11/15",
-        "11/16",
-        "11/17",
-        "11/18",
-        "11/19",
-        "11/20",
-        "11/21",
-        "11/22",
-        "11/23",
-        "11/24"
-      ],
-      "deltaPct": 0,
-      "latest": 0,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "sabah 대 바르셀로나 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "sabah 대 바르셀로나 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "sabah 대 바르셀로나 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "sabah 대 바르셀로나 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "sabah 대 바르셀로나 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "sabah 대 바르셀로나 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "sabah 대 바르셀로나 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "sabah 대 바르셀로나 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "sabah 대 바르셀로나 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "sabah 대 바르셀로나 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "하",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "매일경제",
-      "category": "연예",
-      "catKey": "culture",
-      "reason": "비트코인 파동으로 보기, 5만5천 달러 바닥선과 6만4천6백 달러 첫 관문",
-      "series": [
-        93.78,
-        95.48,
-        88.37,
-        53.37,
-        50.43,
-        98.1,
-        98.22,
-        93.98,
-        100,
-        89.85,
-        57.37,
-        53.67,
-        99.36,
-        98.07
-      ],
-      "dates": [
-        "11/11",
-        "11/12",
-        "11/13",
-        "11/14",
-        "11/15",
-        "11/16",
-        "11/17",
-        "11/18",
-        "11/19",
-        "11/20",
-        "11/21",
-        "11/22",
-        "11/23",
-        "11/24"
-      ],
-      "deltaPct": -1,
-      "latest": 98.07,
-      "seriesLabel": "최근 14일",
-      "subKeywords": [
-        {
-          "keyword": "매일경제 근황",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "매일경제 프로필",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "매일경제 나이",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "상",
-          "reason": "검색 지수 0, 전일대비 +0%."
-        },
-        {
-          "keyword": "매일경제 열애설",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "매일경제 논란",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "매일경제 사건",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "매일경제 반응",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "매일경제 정리",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "매일경제 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "매일경제 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        }
-      ]
-    },
-    {
-      "keyword": "정부",
+      "keyword": "태안해양경찰서",
       "category": "정치",
       "catKey": "politics",
-      "reason": "미, 14개국에 과잉생산 관세…“한국 15% 상한 유지”",
+      "reason": "담보금 30억원 미납한 중국어선 선장 등 2명 구속",
       "series": [
-        16.09,
-        20.34,
-        18.24,
-        17.06,
-        14.12,
-        16.74,
-        15.38,
-        11.9,
-        12.44,
-        14.59,
-        12.69,
-        12.44,
-        13.01,
-        10.79
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0.01,
+        0,
+        0,
+        0,
+        0,
+        0.01,
+        0,
+        0
       ],
       "dates": [
-        "11/11",
         "11/12",
         "11/13",
         "11/14",
@@ -827,107 +600,107 @@
         "11/21",
         "11/22",
         "11/23",
-        "11/24"
+        "11/24",
+        "11/25"
       ],
-      "deltaPct": -17,
-      "latest": 10.79,
+      "deltaPct": 0,
+      "latest": 0,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "정부 이유",
+          "keyword": "태안해양경찰서 이유",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "정부 전망",
+          "keyword": "태안해양경찰서 전망",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%."
         },
         {
-          "keyword": "정부 정리",
+          "keyword": "태안해양경찰서 정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "태안해양경찰서 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "정부 논란",
+          "keyword": "태안해양경찰서 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "정부 반응",
+          "keyword": "태안해양경찰서 배경",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "정부 배경",
+          "keyword": "태안해양경찰서 총정리",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "정부 총정리",
+          "keyword": "태안해양경찰서 입장",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "정부 입장",
+          "keyword": "태안해양경찰서 영향",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "정부 영향",
+          "keyword": "태안해양경찰서 뜻",
           "volume": "하",
           "trend": "신규",
-          "competition": "상",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "정부 뜻",
-          "volume": "상",
-          "trend": "유지",
-          "competition": "상",
-          "reason": "검색 지수 22.12, 전일대비 +3%."
         }
       ]
     },
     {
-      "keyword": "성유리",
+      "keyword": "리트 냥이",
       "category": "연예",
       "catKey": "culture",
-      "reason": "성유리, 중학생 때 모든 과목 &apos;수&apos; 성적표 공개…교수父· 의사 오빠 잇던 수재",
+      "reason": "[속보]경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색",
       "series": [
-        2.75,
-        11.6,
-        6.07,
-        4.33,
-        2.79,
-        2.26,
-        2.92,
-        18.88,
-        11.84,
-        7.14,
-        5.74,
-        3.99,
-        4.79,
-        3.95
+        0,
+        0.01,
+        0.01,
+        0.15,
+        1.98,
+        3.65,
+        5.4,
+        100,
+        6.7,
+        1.95,
+        1.33,
+        1.05,
+        0.65,
+        0.49
       ],
       "dates": [
-        "11/11",
         "11/12",
         "11/13",
         "11/14",
@@ -940,107 +713,107 @@
         "11/21",
         "11/22",
         "11/23",
-        "11/24"
+        "11/24",
+        "11/25"
       ],
-      "deltaPct": -18,
-      "latest": 3.95,
+      "deltaPct": -25,
+      "latest": 0.49,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "성유리 근황",
+          "keyword": "리트 냥이 근황",
           "volume": "중",
-          "trend": "하락",
-          "competition": "중",
-          "reason": "검색 지수 10.85, 전일대비 -18%."
-        },
-        {
-          "keyword": "성유리 프로필",
-          "volume": "상",
           "trend": "상승",
-          "competition": "중",
-          "reason": "검색 지수 34.11, 전일대비 +13%."
+          "competition": "하",
+          "reason": "검색 지수 0.6, 전일대비 +43%."
         },
         {
-          "keyword": "성유리 나이",
+          "keyword": "리트 냥이 프로필",
+          "volume": "하",
+          "trend": "유지",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "리트 냥이 나이",
           "volume": "중",
           "trend": "하락",
           "competition": "하",
-          "reason": "검색 지수 13.95, 전일대비 -56%."
+          "reason": "검색 지수 1.09, 전일대비 -10%."
         },
         {
-          "keyword": "성유리 열애설",
+          "keyword": "리트 냥이 열애설",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성유리 논란",
+          "keyword": "리트 냥이 논란",
           "volume": "하",
           "trend": "유지",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성유리 사건",
+          "keyword": "리트 냥이 사건",
+          "volume": "하",
+          "trend": "하락",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 -100%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "리트 냥이 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성유리 반응",
+          "keyword": "리트 냥이 정리",
           "volume": "하",
-          "trend": "신규",
-          "competition": "중",
+          "trend": "유지",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성유리 정리",
+          "keyword": "리트 냥이 이유",
           "volume": "하",
-          "trend": "신규",
-          "competition": "중",
+          "trend": "유지",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성유리 이유",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
-        },
-        {
-          "keyword": "성유리 뜻",
-          "volume": "하",
-          "trend": "신규",
-          "competition": "중",
-          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+          "keyword": "리트 냥이 뜻",
+          "volume": "상",
+          "trend": "하락",
+          "competition": "하",
+          "reason": "검색 지수 2.28, 전일대비 -35%."
         }
       ]
     },
     {
-      "keyword": "성시경",
+      "keyword": "종합 부동산 세",
       "category": "연예",
       "catKey": "culture",
-      "reason": "‘40돌’ KBS 연예대상, 신동엽·성시경·나연 MC 발탁",
+      "reason": "“아무것도 안 했는데 세금 5배 뛰었다”…종부세 고지서에 놀란 1주택자들",
       "series": [
-        29.54,
-        70.47,
-        51.01,
-        36.57,
-        38.94,
-        31.17,
-        21.18,
-        21.98,
-        20.49,
-        31.82,
-        29.2,
-        56.78,
-        91.74,
-        67.1
+        7.8,
+        6.08,
+        3.19,
+        3.78,
+        8.41,
+        7.46,
+        6.94,
+        5.68,
+        12.21,
+        8.68,
+        8.21,
+        26.53,
+        100,
+        50.79
       ],
       "dates": [
-        "11/11",
         "11/12",
         "11/13",
         "11/14",
@@ -1053,81 +826,308 @@
         "11/21",
         "11/22",
         "11/23",
-        "11/24"
+        "11/24",
+        "11/25"
       ],
-      "deltaPct": -27,
-      "latest": 67.1,
+      "deltaPct": -49,
+      "latest": 50.79,
       "seriesLabel": "최근 14일",
       "subKeywords": [
         {
-          "keyword": "성시경 근황",
+          "keyword": "종합 부동산 세 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "종합 부동산 세 프로필",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "종합 부동산 세 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "종합 부동산 세 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성시경 프로필",
+          "keyword": "종합 부동산 세 논란",
           "volume": "하",
-          "trend": "하락",
-          "competition": "중",
-          "reason": "검색 지수 5.37, 전일대비 -24%."
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성시경 나이",
-          "volume": "상",
-          "trend": "하락",
-          "competition": "중",
-          "reason": "검색 지수 69.48, 전일대비 -31%."
-        },
-        {
-          "keyword": "성시경 열애설",
+          "keyword": "종합 부동산 세 사건",
           "volume": "하",
-          "trend": "하락",
-          "competition": "중",
-          "reason": "검색 지수 3.21, 전일대비 -11%. (참고값, 개별 검증 전)"
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성시경 논란",
-          "volume": "중",
-          "trend": "상승",
-          "competition": "중",
-          "reason": "검색 지수 13.07, 전일대비 +69%."
+          "keyword": "종합 부동산 세 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성시경 사건",
+          "keyword": "종합 부동산 세 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "종합 부동산 세 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "종합 부동산 세 뜻",
           "volume": "하",
           "trend": "유지",
-          "competition": "중",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "2027학년도 대학수학능력시험",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "수능 만점 최소 3명 나왔는데…“신원 공개 거부” 쉬쉬하는 이유",
+      "series": [
+        0.97,
+        0.68,
+        0.43,
+        0.7,
+        1.79,
+        2.06,
+        3.89,
+        19.15,
+        4.07,
+        1.18,
+        0.66,
+        1.18,
+        0.75,
+        0.32
+      ],
+      "dates": [
+        "11/12",
+        "11/13",
+        "11/14",
+        "11/15",
+        "11/16",
+        "11/17",
+        "11/18",
+        "11/19",
+        "11/20",
+        "11/21",
+        "11/22",
+        "11/23",
+        "11/24",
+        "11/25"
+      ],
+      "deltaPct": -57,
+      "latest": 0.32,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "2027학년도 대학수학능력시험 근황",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "2027학년도 대학수학능력시험 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "2027학년도 대학수학능력시험 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "2027학년도 대학수학능력시험 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성시경 반응",
+          "keyword": "2027학년도 대학수학능력시험 논란",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성시경 정리",
+          "keyword": "2027학년도 대학수학능력시험 사건",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성시경 이유",
+          "keyword": "2027학년도 대학수학능력시험 반응",
           "volume": "하",
           "trend": "신규",
-          "competition": "중",
+          "competition": "하",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
         },
         {
-          "keyword": "성시경 뜻",
+          "keyword": "2027학년도 대학수학능력시험 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "2027학년도 대학수학능력시험 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "2027학년도 대학수학능력시험 뜻",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "하",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        }
+      ]
+    },
+    {
+      "keyword": "목동",
+      "category": "연예",
+      "catKey": "culture",
+      "reason": "목동4단지 2차 현설도 현대건설만 참석…수의계약 수순",
+      "series": [
+        0.07,
+        0.06,
+        0.06,
+        0.05,
+        0.06,
+        0.06,
+        0.06,
+        0.06,
+        0.07,
+        0.05,
+        0.05,
+        0.06,
+        0.17,
+        0.06
+      ],
+      "dates": [
+        "11/12",
+        "11/13",
+        "11/14",
+        "11/15",
+        "11/16",
+        "11/17",
+        "11/18",
+        "11/19",
+        "11/20",
+        "11/21",
+        "11/22",
+        "11/23",
+        "11/24",
+        "11/25"
+      ],
+      "deltaPct": -65,
+      "latest": 0.06,
+      "seriesLabel": "최근 14일",
+      "subKeywords": [
+        {
+          "keyword": "목동 근황",
           "volume": "하",
           "trend": "신규",
           "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "목동 프로필",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "중",
+          "reason": "검색 지수 0, 전일대비 +0%."
+        },
+        {
+          "keyword": "목동 나이",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
           "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "목동 열애설",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "목동 논란",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "목동 사건",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "목동 반응",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "목동 정리",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "목동 이유",
+          "volume": "하",
+          "trend": "신규",
+          "competition": "상",
+          "reason": "검색 지수 0, 전일대비 +0%. (참고값, 개별 검증 전)"
+        },
+        {
+          "keyword": "목동 뜻",
+          "volume": "상",
+          "trend": "상승",
+          "competition": "상",
+          "reason": "검색 지수 5.46, 전일대비 +100%."
         }
       ]
     }
